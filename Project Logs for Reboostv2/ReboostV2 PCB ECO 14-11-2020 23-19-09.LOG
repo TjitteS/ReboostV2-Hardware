@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=PowerElectronics Member=C6
+Removed Member From Class: ClassName=Controller Member=J1
+Added Member To Class: ClassName=PowerElectronics Member=Component C27 220nf
+Added Member To Class: ClassName=Controller Member=Component J3 53398-0571
+Added Member To Class: ClassName=IHS Member=Component R2_IHS (R2) 1K
+Added Member To Class: ClassName=ILS Member=Component R4_ILS (R4) 1K
+Added Member To Class: ClassName=USB Member=Component R7 240

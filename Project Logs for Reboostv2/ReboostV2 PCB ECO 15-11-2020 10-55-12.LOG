@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=3V3 Pin=L1-1
+Removed Pin From Net: NetName=3V3 Pin=R9-2
+Added Component: Designator=U1(QFN48)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-STM32G474CEU6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "3132392"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=U1-5
+Added Pin To Net: NetName=NetC6_2 Pin=U1-6
+Added Pin To Net: NetName=R\S\T\ Pin=U1-7
+Added Pin To Net: NetName=P1_IL Pin=U1-8
+Added Pin To Net: NetName=P1_IL Pin=U1-9
+Added Pin To Net: NetName=LED0 Pin=U1-13
+Added Pin To Net: NetName=LED1 Pin=U1-14
+Added Pin To Net: NetName=LED2 Pin=U1-15
+Added Pin To Net: NetName=LED3 Pin=U1-16
+Added Pin To Net: NetName=P2_IL Pin=U1-17
+Added Pin To Net: NetName=P2_IL Pin=U1-18
+Added Pin To Net: NetName=NetC11_2 Pin=U1-20
+Added Pin To Net: NetName=NetC9_2 Pin=U1-21
+Added Pin To Net: NetName=P1_T Pin=U1-24
+Added Pin To Net: NetName=P2_Vin Pin=U1-25
+Added Pin To Net: NetName=P1_Vin Pin=U1-26
+Added Pin To Net: NetName=P2_T Pin=U1-28
+Added Pin To Net: NetName=P1_l Pin=U1-30
+Added Pin To Net: NetName=P1_h Pin=U1-31
+Added Pin To Net: NetName=P2_l Pin=U1-32
+Added Pin To Net: NetName=P2_h Pin=U1-33
+Added Pin To Net: NetName=P2HSEN Pin=U1-34
+Added Pin To Net: NetName=SWDIO Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=P1EN Pin=U1-38
+Added Pin To Net: NetName=TX Pin=U1-39
+Added Pin To Net: NetName=RX Pin=U1-40
+Added Pin To Net: NetName=P1HSEN Pin=U1-42
+Added Pin To Net: NetName=CANRX Pin=U1-43
+Added Pin To Net: NetName=CANTX Pin=U1-44
+Added Pin To Net: NetName=P2EN Pin=U1-45
+Added Pin To Net: NetName=NetR10_1 Pin=U1-46
+Added Pin To Net: NetName=Vdda Pin=L1-1
+Added Net: Name=Vdda
+Added Pin To Net: NetName=Vdd Pin=C7-2
+Added Pin To Net: NetName=Vdd Pin=C8-2
+Added Pin To Net: NetName=Vdd Pin=R9-2
+Added Pin To Net: NetName=Vdd Pin=U1-23
+Added Pin To Net: NetName=Vdd Pin=U1-35
+Added Pin To Net: NetName=Vdd Pin=U1-48
+Added Net: Name=Vdd
+Added Member To Class: ClassName=Controller Member=Component U1 STM32G474

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetR24_1 Pin=R25-2
+Removed Pin From Net: NetName=NetR26_1 Pin=R27-2
+Added Pin To Net: NetName=HSG Pin=R25-2
+Added Pin To Net: NetName=LSG Pin=R27-2

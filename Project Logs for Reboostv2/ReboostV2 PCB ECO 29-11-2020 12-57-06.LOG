@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=5Vcan Pin=C48-2
+Removed Pin From Net: NetName=5Vcan Pin=C49-2
+Removed Pin From Net: NetName=5Vcan Pin=L2-2
+Removed Pin From Net: NetName=3V3 Pin=R13-2
+Removed Pin From Net: NetName=3V3 Pin=R16-2
+Removed Pin From Net: NetName=5Vcan Pin=U9-8
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SUB-SMA
+Change Component Footprint: Designator=D6 Old Footprint=SMA New Footprint=SUB-SMA
+Change Component Comment : Designator=D2 Old Comment=STPS1H100 New Comment=SS110L
+Change Component Comment : Designator=D6 Old Comment=STPS1H100 New Comment=SS110L
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SMA"; UniqueID = "\QVPTMIIM\SDTTMIBD" ("\QVPTMIIM\SDTTMIBD")
+Change component parameters (AddParameter): Name = "Brand"; Value = "TAIWAN SEMICONDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand Number"; Value = "SS110L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Style"; Value = "SMF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "0.9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code Supplier"; Value = "1559156"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0,191"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55°C to +150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "SMA"; UniqueID = "\QVPTMIIM\PIQOLFKO" ("\QVPTMIIM\PIQOLFKO")
+Change component parameters (AddParameter): Name = "Brand"; Value = "TAIWAN SEMICONDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand Number"; Value = "SS110L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Style"; Value = "SMF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "0.9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code Supplier"; Value = "1559156"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0,191"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55°C to +150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vrrm"; Value = "100V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5Vcan Pin=R13-2
+Added Pin To Net: NetName=5Vcan Pin=R16-2
+Change Net Name : Old Net Name=5Vcan New Net Name=GND
+Added Pin To Net: NetName=5Vcan Pin=C48-2
+Added Pin To Net: NetName=5Vcan Pin=C49-2
+Added Pin To Net: NetName=5Vcan Pin=L2-2
+Added Net: Name=5Vcan

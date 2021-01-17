@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VLN Pin=R6_ILS-1
+Removed Pin From Net: NetName=GND Pin=R6_ILS-2
+Added Pin To Net: NetName=GND Pin=R6_ILS-1
+Added Pin To Net: NetName=VLN Pin=R6_ILS-2
+Added Member To Class: ClassName=Driver Member=Component C38 100nF
+Added Member To Class: ClassName=CANISO Member=Wire NetC47_2
+Added Member To Class: ClassName=CANISO Member=Wire NetL3_1

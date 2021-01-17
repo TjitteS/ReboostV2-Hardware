@@ -1,0 +1,10 @@
+Added Component: Designator=U4(MSE1612)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL5_1 Pin=U4-1
+Added Pin To Net: NetName=NetR24_2 Pin=U4-3
+Added Pin To Net: NetName=NetR25_1 Pin=U4-9
+Added Pin To Net: NetName=NetC39_2 Pin=U4-10
+Added Pin To Net: NetName=NetR24_1 Pin=U4-12
+Added Pin To Net: NetName=NetR28_2 Pin=U4-14
+Added Member To Class: ClassName=PSU Member=Component U4 na

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=HSS Pin=Q2-D
+Added Member To Class: ClassName=PowerElectronics Member=Component C23 100uF
+Added Room: Name=Designator

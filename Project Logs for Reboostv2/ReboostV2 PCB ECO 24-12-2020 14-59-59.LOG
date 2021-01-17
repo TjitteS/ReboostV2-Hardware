@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=CANH Pin=P1-4
+Removed Pin From Net: NetName=CANL Pin=P1-5
+Removed Pin From Net: NetName=CANH Pin=P2-4
+Removed Pin From Net: NetName=CANL Pin=P2-5
+Removed Pin From Net: NetName=VHS Pin=R13_VHS-1
+Removed Pin From Net: NetName=VLS Pin=R13_VLS-1
+Removed Pin From Net: NetName=VHS Pin=R49_VHS-1
+Removed Pin From Net: NetName=GND Pin=R49_VHS-2
+Removed Pin From Net: NetName=VLS Pin=R49_VLS-1
+Removed Pin From Net: NetName=GND Pin=R49_VLS-2
+Added Component: Designator=L6(WE-CNSW_1812)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/744235801.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.12Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Test Condition"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Test Voltage"; Value = "125VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "744235801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Winding Style"; Value = "bifiliar"; VariantName = "[No Variations]"
+Added Component: Designator=L7_VHS(WE-CNSW_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/744231091.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.3Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "90Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Test Condition"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Test Voltage"; Value = "125VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "744231091"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.37A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Winding Style"; Value = "bifiliar"; VariantName = "[No Variations]"
+Added Component: Designator=L7_VLS(WE-CNSW_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/744231091.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance max."; Value = "0.3Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "90Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Test Condition"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Test Voltage"; Value = "125VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "744231091"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.37A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Winding Style"; Value = "bifiliar"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=L6-1
+Added Pin To Net: NetName=CANH Pin=L6-4
+Added Pin To Net: NetName=GND Pin=L7_VHS-2
+Added Pin To Net: NetName=VHS Pin=L7_VHS-3
+Added Pin To Net: NetName=GND Pin=L7_VLS-2
+Added Pin To Net: NetName=VLS Pin=L7_VLS-3
+Added Pin To Net: NetName=_VHS_N Pin=L7_VHS-1
+Added Pin To Net: NetName=_VHS_N Pin=R49_VHS-2
+Added Net: Name=_VHS_N
+Added Pin To Net: NetName=_VHS_P Pin=L7_VHS-4
+Added Pin To Net: NetName=_VHS_P Pin=R13_VHS-1
+Added Pin To Net: NetName=_VHS_P Pin=R49_VHS-1
+Added Net: Name=_VHS_P
+Added Pin To Net: NetName=_VLS_N Pin=L7_VLS-1
+Added Pin To Net: NetName=_VLS_N Pin=R49_VLS-2
+Added Net: Name=_VLS_N
+Added Pin To Net: NetName=_VLS_P Pin=L7_VLS-4
+Added Pin To Net: NetName=_VLS_P Pin=R13_VLS-1
+Added Pin To Net: NetName=_VLS_P Pin=R49_VLS-1
+Added Net: Name=_VLS_P
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=P1-5
+Added Pin To Net: NetName=NetL6_2 Pin=P2-5
+Added Net: Name=NetL6_2
+Added Pin To Net: NetName=NetL6_3 Pin=L6-3
+Added Pin To Net: NetName=NetL6_3 Pin=P1-4
+Added Pin To Net: NetName=NetL6_3 Pin=P2-4
+Added Net: Name=NetL6_3
+Added Differential Pair: Name=_VHS
+Added Differential Pair: Name=_VLS
+Added Member To Class: ClassName=CAN Member=Component L6 800Ohm
+Added Member To Class: ClassName=VHS Member=Component L7_VHS (L7) 90Ohm
+Added Member To Class: ClassName=VLS Member=Component L7_VLS (L7) 90Ohm

@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=L2(ETD39)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FERROXCUBE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Manufacturer"; Value = "CPH-ETD39-1S-16P-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "3056314"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2,35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSW Pin=L2-1
+Added Pin To Net: NetName=VSW Pin=L2-1
+Added Pin To Net: NetName=VSW Pin=L2-1
+Added Pin To Net: NetName=VSW Pin=L2-1
+Added Pin To Net: NetName=Vin Pin=L2-2
+Added Pin To Net: NetName=Vin Pin=L2-2
+Added Pin To Net: NetName=Vin Pin=L2-2
+Added Pin To Net: NetName=Vin Pin=L2-2
+Added Member To Class: ClassName=PowerElectronics Member=Component L2 ETD39Custom

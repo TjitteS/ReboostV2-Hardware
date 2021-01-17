@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=PG New Net Name=NetR35_1
+Added Pin To Net: NetName=PG Pin=U9-6
+Added Net: Name=PG

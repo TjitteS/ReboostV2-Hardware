@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=IS_IHS_N New Net Name=_IHS_N
+Change Net Name : Old Net Name=IS_IHS_P New Net Name=_IHS_P
+Change Net Name : Old Net Name=IS_ILS_N New Net Name=_ILS_N
+Change Net Name : Old Net Name=IS_ILS_P New Net Name=_ILS_P
+Change Net Name : Old Net Name=NetR6_IHS_3 New Net Name=S_IHS_P
+Change Net Name : Old Net Name=NetR6_IHS_4 New Net Name=S_IHS_N
+Change Net Name : Old Net Name=NetR6_ILS_3 New Net Name=S_ILS_P
+Change Net Name : Old Net Name=NetR6_ILS_4 New Net Name=S_ILS_N
+Added Differential Pair: Name=_IHS
+Added Differential Pair: Name=_ILS
+Added Differential Pair: Name=S_IHS
+Added Differential Pair: Name=S_ILS

@@ -1,0 +1,2622 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 27.30000382 16.20000062 270 N R52 49.9K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060349K9FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '1652882'
+PRP Power_Rating '0.063W'
+PRP Price '0,015'
+PRP Resistance '49.9K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 27.30000382 15.35000232 0 N 1 0 R52-1
+TOP 1 27.30000382 17.05000146 0 N 114 4 R52-2
+#
+# CMP 1
+CMP 0 28.80000336 16.20000062 270 N R51 49.9K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060349K9FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '1652882'
+PRP Power_Rating '0.063W'
+PRP Price '0,015'
+PRP Resistance '49.9K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 28.80000336 15.35000232 0 N 2 0 R51-1
+TOP 1 28.80000336 17.05000146 0 N 115 4 R51-2
+#
+# CMP 2
+CMP 31 18.90000538 4.40000136 180 N J7 U.FL ;0=1,1=1.2500
+PRP Brand 'Hiroze'
+PRP Brand_Number 'U.FL-R-SMT(01)'
+PRP Case_Style 'U_FL'
+PRP Order_Code_Supplier '3908021'
+PRP Price '1,53'
+PRP Supplier 'Farnell'
+TOP 0 17.20000624 4.40000136 90 N 119 110 J7-0
+TOP 1 20.60000452 4.40000136 90 N 119 111 J7-0
+TOP 2 18.90000538 2.90000182 90 N 1 1 J7-1
+#
+# CMP 3
+CMP 31 14.20000462 4.40000136 180 N J6 U.FL ;0=1,1=1.2500
+PRP Brand 'Hiroze'
+PRP Brand_Number 'U.FL-R-SMT(01)'
+PRP Case_Style 'U_FL'
+PRP Order_Code_Supplier '3908021'
+PRP Price '1,53'
+PRP Supplier 'Farnell'
+TOP 0 12.50000548 4.40000136 90 N 119 108 J6-0
+TOP 1 15.90000376 4.40000136 90 N 119 109 J6-0
+TOP 2 14.20000462 2.90000182 90 N 2 1 J6-1
+#
+# CMP 4
+CMP 0 56.70000344 22.40000092 90 N R50 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 56.70000344 23.24999922 180 N 119 105 R50-1
+TOP 1 56.70000344 21.55000008 180 N 4 1 R50-2
+#
+# CMP 5
+CMP 0 47.00000506 19.50000164 270 N R46 49.9K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060349K9FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '1652882'
+PRP Power_Rating '0.063W'
+PRP Price '0,015'
+PRP Resistance '49.9K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 47.00000506 18.65000334 0 N 7 0 R46-1
+TOP 1 47.00000506 20.35000248 0 N 3 3 R46-2
+#
+# CMP 6
+CMP 31 43.50000444 12.5000004 0 N J5 U.FL ;0=1,1=1.2500
+PRP Brand 'Hiroze'
+PRP Brand_Number 'U.FL-R-SMT(01)'
+PRP Case_Style 'U_FL'
+PRP Order_Code_Supplier '3908021'
+PRP Price '1,53'
+PRP Supplier 'Farnell'
+TOP 0 45.20000358 12.5000004 270 N 119 106 J5-0
+TOP 1 41.8000053 12.5000004 270 N 119 107 J5-0
+TOP 2 43.50000444 13.99999994 270 N 7 1 J5-1
+#
+# CMP 7
+CMP 11 51.50000368 9.70000092 0 N C27 100nF ;0=1,1=7.6000
+PRP Brand 'KEMET'
+PRP Brand_Number 'C1206C104K1RACTU'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414714'
+PRP Price '0,079'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 53.00000322 9.70000092 270 N 12 1 C27-1
+TOP 1 50.00000414 9.70000092 270 N 119 104 C27-2
+#
+# CMP 8
+CMP 11 57.70000398 36.40000086 90 N C38 1uF ;0=1,1=0.0000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 57.70000398 37.9000004 180 N 119 101 C38-1
+TOP 1 57.70000398 34.90000132 180 N 57 8 C38-2
+#
+# CMP 9
+CMP 16 37.80000568 49.35000036 90 N U8 LTC3639EMSE ;0=1,1=1.1000
+PRP ComponentLink1Description 'New link'
+PRP ComponentLink1URL ''
+TOP 0 36.05000664 51.45000124 90 N 55 4 U8-1
+TOP 1 37.05000718 51.45000124 90 N 90 6 U8-3
+TOP 2 38.05000772 51.45000124 90 N 0 4 U8-5
+TOP 3 38.55000672 51.45000124 90 N 119 81 U8-6
+TOP 4 39.05000572 51.45000124 90 N 119 82 U8-7
+TOP 5 39.55000726 51.45000124 90 N 119 83 U8-8
+TOP 6 39.55000726 47.24999948 90 N 89 2 U8-9
+TOP 7 39.05000572 47.24999948 90 N 69 1 U8-10
+TOP 8 38.55000672 47.24999948 90 N 28 1 U8-11
+TOP 9 38.05000772 47.24999948 90 N 91 2 U8-12
+TOP 10 37.05000718 47.24999948 90 N 61 2 U8-14
+TOP 11 36.05000664 47.24999948 90 N 119 84 U8-16
+TOP 12 37.80000568 49.35000036 90 N 119 85 U8-17
+#
+# CMP 10
+CMP 34 28.8000059 10.44999942 270 N L7_VLS 90Ohm ;0=1,1=1.2000
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.we-online.com/catalog/datasheet/744231091.pdf'
+PRP DC_Resistance_max. '0.3Ohm'
+PRP Impedance '90Ohm'
+PRP Impedance_Test_Condition '100MHz'
+PRP Insulation_Test_Voltage '125VAC'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '744231091'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-40 to +125degC'
+PRP Packaging 'Tape and Reel'
+PRP Published_Date 'April 2020'
+PRP Rated_Current '0.37A'
+PRP Rated_Voltage '50V'
+PRP Size '0805'
+PRP Winding_Style 'bifiliar'
+TOP 0 29.2000051 9.59999858 270 N 17 2 L7_VLS-1
+TOP 1 29.2000051 11.30000026 270 N 21 1 L7_VLS-2
+TOP 2 28.4000067 11.30000026 270 N 119 78 L7_VLS-3
+TOP 3 28.4000067 9.59999858 270 N 119 77 L7_VLS-4
+#
+# CMP 11
+CMP 34 30.40000524 27.20000148 0 N L7_VHS 90Ohm ;0=1,1=1.2000
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.we-online.com/catalog/datasheet/744231091.pdf'
+PRP DC_Resistance_max. '0.3Ohm'
+PRP Impedance '90Ohm'
+PRP Impedance_Test_Condition '100MHz'
+PRP Insulation_Test_Voltage '125VAC'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '744231091'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-40 to +125degC'
+PRP Packaging 'Tape and Reel'
+PRP Published_Date 'April 2020'
+PRP Rated_Current '0.37A'
+PRP Rated_Voltage '50V'
+PRP Size '0805'
+PRP Winding_Style 'bifiliar'
+TOP 0 31.25000608 27.60000068 180 N 18 2 L7_VHS-1
+TOP 1 29.5500044 27.60000068 180 N 22 1 L7_VHS-2
+TOP 2 29.5500044 26.80000228 180 N 119 80 L7_VHS-3
+TOP 3 31.25000608 26.80000228 180 N 119 79 L7_VHS-4
+#
+# CMP 12
+CMP 35 10.00000286 55.25000126 270 N L6 800Ohm ;0=1,1=2.8000
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.we-online.com/catalog/datasheet/744235801.pdf'
+PRP DC_Resistance_max. '0.12Ohm'
+PRP Impedance '800Ohm'
+PRP Impedance_Test_Condition '100MHz'
+PRP Insulation_Test_Voltage '125VAC'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '744235801'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-40 to +125degC'
+PRP Packaging 'Tape and Reel'
+PRP Published_Date 'April 2020'
+PRP Rated_Current '1A'
+PRP Rated_Voltage '60V'
+PRP Size '1812'
+PRP Winding_Style 'bifiliar'
+TOP 0 8.87500384 53.4250011 270 N 43 1 L6-1
+TOP 1 8.87500384 57.07500142 270 N 16 0 L6-2
+TOP 2 11.12500188 57.07500142 270 N 15 0 L6-3
+TOP 3 11.12500188 53.4250011 270 N 44 1 L6-4
+#
+# CMP 13
+CMP 11 38.60000916 53.90000396 0 N C64 1uF ;0=1,1=1.1000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 40.1000087 53.90000396 270 N 119 58 C64-1
+TOP 1 37.10000962 53.90000396 270 N 90 5 C64-2
+#
+# CMP 14
+CMP 39 44.43000512 37.79999552 270 N U11 TPS7A2501 ;0=1,1=0.9000
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '296-TPS7A2501DRVTCT-ND'
+PRP Supplier_Part_Number_2 '595-TPS7A2501DRVT'
+TOP 0 45.08000636 36.80499624 0 N 46 2 U11-1
+TOP 1 44.43000512 36.80499624 0 N 20 0 U11-2
+TOP 2 43.78000642 36.80499624 0 N 19 1 U11-3
+TOP 3 43.78000642 38.79499734 0 N 88 1 U11-4
+TOP 4 44.43000512 38.79499734 0 N 119 86 U11-5
+TOP 5 45.08000636 38.79499734 0 N 95 8 U11-6
+TOP 6 44.43000512 37.79999552 0 N 119 87 U11-7
+#
+# CMP 15
+CMP 0 42.0000049 37.2000018 90 N R48 12K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060312K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122501'
+PRP Power_Rating '0.063W'
+PRP Price '0,0006'
+PRP Resistance '12K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 1%'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 42.0000049 38.0500001 180 N 119 88 R48-1
+TOP 1 42.0000049 36.35000096 180 N 20 1 R48-2
+#
+# CMP 16
+CMP 0 40.50000536 37.2000018 270 N R47 47k ;0=1,1=1.3500
+PRP Brand ''
+PRP Brand_Number ''
+PRP Case_Style '0603'
+PRP Order_Code_Supplier ''
+PRP Power_Rating '0.063W'
+PRP Price ''
+PRP Resistance '47k'
+PRP Supplier 'Farnell'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1577628'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 40.50000536 36.3500035 0 N 20 2 R47-1
+TOP 1 40.50000536 38.05000264 0 N 46 3 R47-2
+#
+# CMP 17
+CMP 0 15.60000436 24.8000012 180 N R45 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 14.75000606 24.8000012 90 N 26 21 R45-1
+TOP 1 16.4500052 24.8000012 90 N 19 2 R45-2
+#
+# CMP 18
+CMP 9 27.40000616 39.65000452 90 N C63 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 27.40000616 40.50000282 180 N 119 72 C63-1
+TOP 1 27.40000616 38.80000368 180 N 68 2 C63-2
+#
+# CMP 19
+CMP 9 29.2000051 48.00000052 0 N C60 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 30.0500034 48.00000052 270 N 119 70 C60-1
+TOP 1 28.35000426 48.00000052 270 N 68 0 C60-2
+#
+# CMP 20
+CMP 9 44.90000418 40.40000048 180 N C59 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 44.05000588 40.40000048 90 N 119 90 C59-1
+TOP 1 45.75000502 40.40000048 90 N 95 9 C59-2
+#
+# CMP 21
+CMP 0 65.30000402 7.70000238 270 N R13_VLS 180K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603180KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122648'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '180K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 65.30000402 6.85000408 0 N 17 1 R13_VLS-1
+TOP 1 65.30000402 8.55000322 0 N 23 1 R13_VLS-2
+#
+# CMP 22
+CMP 0 50.50000314 45.60000024 180 N R13_VHS 180K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603180KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122648'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '180K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 49.65000484 45.60000024 90 N 18 1 R13_VHS-1
+TOP 1 51.35000398 45.60000024 90 N 24 1 R13_VHS-2
+#
+# CMP 23
+CMP 0 65.30000402 11.00000086 270 N R12_VLS 120K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603120KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122628'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '120K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 65.30000402 10.15000256 0 N 23 0 R12_VLS-1
+TOP 1 65.30000402 11.8500017 0 N 99 2 R12_VLS-2
+#
+# CMP 24
+CMP 0 54.10000356 45.60000024 180 N R12_VHS 120K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603120KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122628'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '120K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 53.25000526 45.60000024 90 N 24 0 R12_VHS-1
+TOP 1 54.9500044 45.60000024 90 N 57 5 R12_VHS-2
+#
+# CMP 25
+CMP 9 44.50000498 31.0000015 0 N C61 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 45.35000328 31.0000015 270 N 56 9 C61-1
+TOP 1 43.65000414 31.0000015 270 N 9 4 C61-2
+#
+# CMP 26
+CMP 9 15.60000436 27.80000028 180 N C17 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 14.75000606 27.80000028 90 N 119 46 C17-1
+TOP 1 16.4500052 27.80000028 90 N 26 14 C17-2
+#
+# CMP 27
+CMP 0 39.90000656 44.2000005 270 N R40 200K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603200KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122655'
+PRP Power_Rating '0.1W'
+PRP Price '0,022'
+PRP Resistance '200K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +155°C'
+PRP Voltage_Rating '75V'
+TOP 0 39.90000656 43.3500022 0 N 119 19 R40-1
+TOP 1 39.90000656 45.05000134 0 N 28 0 R40-2
+#
+# CMP 28
+CMP 0 3.60000296 24.400002 0 N R11 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 4.45000126 24.400002 270 N 29 0 R11-1
+TOP 1 2.75000212 24.400002 270 N 100 1 R11-2
+#
+# CMP 29
+CMP 0 4.0000047 56.0000023 90 N R1 330R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603330RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122302'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '330R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 4.0000047 56.8500006 180 N 30 1 R1-1
+TOP 1 4.0000047 55.15000146 180 N 26 19 R1-2
+#
+# CMP 30
+CMP 38 2.00000362 56.0000023 270 N LED1 GRN ;0=1,1=0.4000
+PRP Brand 'Wurth'
+PRP Brand_Number '156120GS75300'
+PRP Order_Code_Supplier '2322091'
+PRP Price '0,519'
+PRP Supplier 'Farnell'
+TOP 0 2.00000362 54.35000306 270 N 119 62 LED1-1
+TOP 1 2.00000362 57.65000154 270 N 30 0 LED1-2
+TOP 2 2.00000362 56.0000023 270 N 0 40 LED1-empty-1
+#
+# CMP 31
+CMP 23 11.00000086 47.25000202 270 N U6 ISO1044 ;0=1,1=1.7500
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '296-ISO1044DEVM-ND'
+PRP Supplier_Part_Number_2 '595-ISO1044DEVM'
+TOP 0 12.90500086 44.65000214 0 N 26 7 U6-1
+TOP 1 11.63500086 44.65000214 0 N 120 1 U6-2
+TOP 2 10.36500086 44.65000214 0 N 121 1 U6-3
+TOP 3 9.09500086 44.65000214 0 N 119 18 U6-4
+TOP 4 9.09500086 49.8500019 0 N 43 0 U6-5
+TOP 5 10.36500086 49.8500019 0 N 44 0 U6-6
+TOP 6 11.63500086 49.8500019 0 N 42 13 U6-7
+TOP 7 12.90500086 49.8500019 0 N 45 5 U6-8
+#
+# CMP 32
+CMP 0 4.0000047 42.00000236 90 N R5 330R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603330RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122302'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '330R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 4.0000047 42.85000066 180 N 35 1 R5-1
+TOP 1 4.0000047 41.15000152 180 N 41 1 R5-2
+#
+# CMP 33
+CMP 0 4.0000047 27.99999988 90 N R4 330R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603330RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122302'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '330R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 4.0000047 28.84999818 180 N 36 1 R4-1
+TOP 1 4.0000047 27.14999904 180 N 82 1 R4-2
+#
+# CMP 34
+CMP 0 4.0000047 35.00000112 90 N R3 330R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603330RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122302'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '330R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 4.0000047 35.84999942 180 N 37 1 R3-1
+TOP 1 4.0000047 34.15000028 180 N 113 1 R3-2
+#
+# CMP 35
+CMP 0 4.0000047 49.00000106 90 N R2 330R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603330RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122302'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '330R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 4.0000047 49.84999936 180 N 38 1 R2-1
+TOP 1 4.0000047 48.15000022 180 N 112 1 R2-2
+#
+# CMP 36
+CMP 0 24.00000534 63.000001 180 N R31 100R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603100RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122239'
+PRP Power_Rating '0.063W'
+PRP Price '0,007'
+PRP Resistance '100R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 200PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 23.15000704 63.000001 90 N 42 14 R31-1
+TOP 1 24.85000618 63.000001 90 N 34 1 R31-2
+#
+# CMP 37
+CMP 0 24.00000534 61.25000196 180 N R30 20K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060320K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122528'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '20K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 23.15000704 61.25000196 90 N 34 2 R30-1
+TOP 1 24.85000618 61.25000196 90 N 50 1 R30-2
+#
+# CMP 38
+CMP 0 43.75000394 68.50000016 180 N R29 470 ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603470RFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122323'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '470'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 42.90000564 68.50000016 90 N 42 18 R29-1
+TOP 1 44.60000478 68.50000016 90 N 40 1 R29-2
+#
+# CMP 39
+CMP 0 24.00000534 59.74999988 0 N R28 100K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603100KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122619'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '100K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 24.85000364 59.74999988 270 N 50 2 R28-1
+TOP 1 23.1500045 59.74999988 270 N 49 2 R28-2
+#
+# CMP 40
+CMP 38 2.00000362 42.00000236 270 N LED5 GRN ;0=1,1=0.4000
+PRP Brand 'Wurth'
+PRP Brand_Number '156120GS75300'
+PRP Order_Code_Supplier '2322091'
+PRP Price '0,519'
+PRP Supplier 'Farnell'
+TOP 0 2.00000362 40.35000312 270 N 119 64 LED5-1
+TOP 1 2.00000362 43.6500016 270 N 35 0 LED5-2
+TOP 2 2.00000362 42.00000236 270 N 0 30 LED5-empty-1
+#
+# CMP 41
+CMP 38 2.00000362 27.99999988 270 N LED4 GRN ;0=1,1=0.4000
+PRP Brand 'Wurth'
+PRP Brand_Number '156120GS75300'
+PRP Order_Code_Supplier '2322091'
+PRP Price '0,519'
+PRP Supplier 'Farnell'
+TOP 0 2.00000362 26.35000064 270 N 119 61 LED4-1
+TOP 1 2.00000362 29.64999912 270 N 36 0 LED4-2
+TOP 2 2.00000362 27.99999988 270 N 0 31 LED4-empty-1
+#
+# CMP 42
+CMP 38 2.00000362 35.00000112 270 N LED3 RED ;0=1,1=0.4000
+PRP Brand 'Wurth'
+PRP Brand_Number '156120RS75300'
+PRP Order_Code_Supplier '2322094'
+PRP Price '0,519'
+PRP Supplier 'Farnell'
+TOP 0 2.00000362 33.35000188 270 N 119 60 LED3-1
+TOP 1 2.00000362 36.65000036 270 N 37 0 LED3-2
+TOP 2 2.00000362 35.00000112 270 N 0 32 LED3-empty-1
+#
+# CMP 43
+CMP 38 2.00000362 49.00000106 270 N LED2 RED ;0=1,1=0.4000
+PRP Brand 'Wurth'
+PRP Brand_Number '156120RS75300'
+PRP Order_Code_Supplier '2322094'
+PRP Price '0,519'
+PRP Supplier 'Farnell'
+TOP 0 2.00000362 47.35000182 270 N 119 63 LED2-1
+TOP 1 2.00000362 50.6500003 270 N 38 0 LED2-2
+TOP 2 2.00000362 49.00000106 270 N 0 33 LED2-empty-1
+#
+# CMP 44
+CMP 13 46.1750029 65.63500208 180 N D4 HMHA2801 ;0=1,1=1.1000
+PRP Brand 'FAIRCHILD SEMICONDUCTOR'
+PRP Brand_Number 'HMHA2801'
+PRP Case_Style ''
+PRP Input_Current '0.01A'
+PRP Isolation_Voltage '2500V'
+PRP Order_Code_Supplier '1652504'
+PRP Output_Voltage '80V'
+PRP Price '0,28'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +100°C'
+TOP 0 43.0000029 65.00000208 0 N 45 4 D4-1
+TOP 1 43.0000029 66.27000208 0 N 40 0 D4-2
+TOP 2 49.3500029 66.27000208 0 N 119 17 D4-3
+TOP 3 49.3500029 65.00000208 0 N 39 0 D4-4
+#
+# CMP 45
+CMP 11 34.25000516 66.00000008 90 N C44 1uF ;0=1,1=1.1000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 34.25000516 67.49999962 180 N 42 17 C44-1
+TOP 1 34.25000516 64.50000054 180 N 49 1 C44-2
+#
+# CMP 46
+CMP 10 33.25000462 62.00000046 0 N C43 100nF ;0=1,1=1.1000
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0805C104K1RACTU'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1650862'
+PRP Price '0,096'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 34.12500414 62.00000046 270 N 42 19 C43-1
+TOP 1 32.3750051 62.00000046 270 N 49 3 C43-2
+#
+# CMP 47
+CMP 9 24.00000534 64.50000054 180 N C42 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 23.15000704 64.50000054 90 N 42 21 C42-1
+TOP 1 24.85000618 64.50000054 90 N 45 8 C42-2
+#
+# CMP 48
+CMP 9 30.4000027 19.40000184 0 N C41 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 31.250001 19.40000184 270 N 119 59 C41-1
+TOP 1 29.55000186 19.40000184 270 N 26 18 C41-2
+#
+# CMP 49
+CMP 8 53.00000322 56.0000023 90 N MP2 M2.5x2mm ;0=2,1=2.0000
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.we-online.com/catalog/datasheet/9774020151.pdf'
+PRP Inner_Diameter '3.5mm'
+PRP Inner_Thread_Length '-'
+PRP Length '2mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '9774020151'
+PRP Material 'Steel'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-55 to +150degC'
+PRP Outer_Diameter '5.1mm'
+PRP Packaging 'Bulk'
+PRP Published_Date 'April 2020'
+PRP Surface 'Tin'
+PRP Thread 'M2.5'
+TOP 0 53.00000322 56.0000023 90 N 11 0 MP2-1
+#
+# CMP 50
+CMP 8 53.00000322 13.99999994 90 N MP1 M2.5x2mm ;0=2,1=2.0000
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.we-online.com/catalog/datasheet/9774020151.pdf'
+PRP Inner_Diameter '3.5mm'
+PRP Inner_Thread_Length '-'
+PRP Length '2mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '9774020151'
+PRP Material 'Steel'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-55 to +150degC'
+PRP Outer_Diameter '5.1mm'
+PRP Packaging 'Bulk'
+PRP Published_Date 'April 2020'
+PRP Surface 'Tin'
+PRP Thread 'M2.5'
+TOP 0 53.00000322 13.99999994 90 N 12 0 MP1-1
+#
+# CMP 51
+CMP 12 43.0000029 25.50000234 180 N U5 Si8273 ;0=1,1=0.9500
+PRP Supplier_1 'Mouser'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '634-SI8273AB-IM1'
+PRP Supplier_Part_Number_2 '336-5932-ND'
+TOP 0 40.90000202 23.55000116 0 N 0 1 U5-1
+TOP 1 40.90000202 24.2000024 0 N 59 1 U5-2
+TOP 2 40.90000202 24.8500011 0 N 58 1 U5-3
+TOP 3 40.90000202 25.50000234 0 N 119 53 U5-4
+TOP 4 40.90000202 26.15000358 0 N 27 1 U5-5
+TOP 5 40.90000202 26.80000228 0 N 0 2 U5-6
+TOP 6 40.90000202 27.45000352 0 N 26 17 U5-7
+TOP 7 45.10000378 27.45000352 0 N 56 6 U5-8
+TOP 8 45.10000378 26.80000228 0 N 118 2 U5-9
+TOP 9 45.10000378 26.15000358 0 N 9 3 U5-10
+TOP 10 45.10000378 25.50000234 0 N 0 3 U5-11
+TOP 11 45.10000378 24.8500011 0 N 119 52 U5-12
+TOP 12 45.10000378 24.2000024 0 N 111 1 U5-13
+TOP 13 45.10000378 23.55000116 0 N 10 2 U5-14
+#
+# CMP 52
+CMP 0 47.00000506 23.00000226 90 N R27 2R ;0=1,1=1.3500
+PRP Brand 'PANASONIC'
+PRP Brand_Number 'ERJ3GEYJ2R0V'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2059531'
+PRP Power_Rating '0.1W'
+PRP Price '0,009'
+PRP Resistance '2R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 200PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '75V'
+TOP 0 47.00000506 23.85000056 180 N 111 2 R27-1
+TOP 1 47.00000506 22.15000142 180 N 3 1 R27-2
+#
+# CMP 53
+CMP 0 44.50000498 32.60000084 180 N R26 0R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06030000Z0EA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122112'
+PRP Power_Rating '0.063W'
+PRP Price '0,043'
+PRP Resistance '0R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 200PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 43.65000668 32.60000084 90 N 9 2 R26-1
+TOP 1 45.35000582 32.60000084 90 N 47 1 R26-2
+#
+# CMP 54
+CMP 0 44.50000498 18.5000011 0 N R25 0R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06030000Z0EA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122112'
+PRP Power_Rating '0.063W'
+PRP Price '0,043'
+PRP Resistance '0R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 200PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 45.35000328 18.5000011 270 N 10 1 R25-1
+TOP 1 43.65000414 18.5000011 270 N 48 1 R25-2
+#
+# CMP 55
+CMP 0 56.70000344 30.00000096 90 N R24 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 56.70000344 30.84999926 180 N 56 5 R24-1
+TOP 1 56.70000344 29.15000012 180 N 6 0 R24-2
+#
+# CMP 56
+CMP 0 47.00000506 31.5000005 90 N R23 49.9K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060349K9FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '1652882'
+PRP Power_Rating '0.063W'
+PRP Price '0,015'
+PRP Resistance '49.9K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 47.00000506 32.3499988 180 N 8 0 R23-1
+TOP 1 47.00000506 30.64999966 180 N 5 2 R23-2
+#
+# CMP 57
+CMP 0 47.00000506 27.99999988 270 N R22 2R ;0=1,1=1.3500
+PRP Brand 'PANASONIC'
+PRP Brand_Number 'ERJ3GEYJ2R0V'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2059531'
+PRP Power_Rating '0.1W'
+PRP Price '0,009'
+PRP Resistance '2R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 200PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '75V'
+TOP 0 47.00000506 27.15000158 0 N 118 1 R22-1
+TOP 1 47.00000506 28.85000072 0 N 5 1 R22-2
+#
+# CMP 58
+CMP 28 43.80000384 34.60000192 180 N D3 SS110L ;0=1,1=1.0000
+PRP Brand 'TAIWAN SEMICONDUCTOR'
+PRP Brand_Number 'SS110L'
+PRP Case_Style 'SMF'
+PRP Forward_Current '1A'
+PRP Forward_Voltage '0.9V'
+PRP Order_Code_Supplier '1559156'
+PRP Price '0,191'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +150°C'
+PRP Vrrm '100V'
+TOP 0 42.4000041 34.60000192 0 N 46 1 D3-1
+TOP 1 45.20000358 34.60000192 0 N 47 0 D3-2
+#
+# CMP 59
+CMP 28 41.70000296 17.20000116 270 N D2 SS110L ;0=1,1=1.0000
+PRP Brand 'TAIWAN SEMICONDUCTOR'
+PRP Brand_Number 'SS110L'
+PRP Case_Style 'SMF'
+PRP Forward_Current '1A'
+PRP Forward_Voltage '0.9V'
+PRP Order_Code_Supplier '1559156'
+PRP Price '0,191'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +150°C'
+PRP Vrrm '100V'
+TOP 0 41.70000296 15.80000142 270 N 46 0 D2-1
+TOP 1 41.70000296 18.6000009 270 N 48 0 D2-2
+#
+# CMP 60
+CMP 9 44.50000498 29.50000196 0 N C40 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61C225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '+/- 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '1735526'
+PRP Price '0,077'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to 85°C'
+PRP Voltage_Rating '16V'
+TOP 0 45.35000328 29.50000196 270 N 56 4 C40-1
+TOP 1 43.65000414 29.50000196 270 N 9 1 C40-2
+#
+# CMP 61
+CMP 9 15.60000436 29.30000236 180 N C39 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 14.75000606 29.30000236 90 N 119 22 C39-1
+TOP 1 16.4500052 29.30000236 90 N 26 9 C39-2
+#
+# CMP 62
+CMP 11 51.10000448 36.40000086 90 N C37 1uF ;0=1,1=0.0000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 51.10000448 37.9000004 180 N 119 100 C37-1
+TOP 1 51.10000448 34.90000132 180 N 57 7 C37-2
+#
+# CMP 63
+CMP 11 48.9000038 36.40000086 90 N C36 1uF ;0=1,1=0.0000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 48.9000038 37.9000004 180 N 119 99 C36-1
+TOP 1 48.9000038 34.90000132 180 N 57 6 C36-2
+#
+# CMP 64
+CMP 19 28.75000346 60.99999992 90 N U7 LM5165XDRCT ;0=1,1=1.1000
+PRP Brand 'Texas Instruments'
+PRP Brand_Number 'LM5165XDRCT'
+PRP Case_Style 'MSOP-8'
+PRP Order_Code_Supplier '595-LM5165XDRCT'
+PRP Price '3,70'
+PRP Supplier 'Mouser'
+PRP Temperature_Range '-40°C to +85°C'
+TOP 0 30.22500432 62.00000046 270 N 51 4 U7-1
+TOP 1 30.22500432 61.49999892 270 N 49 0 U7-2
+TOP 2 30.22500432 60.99999992 270 N 0 5 U7-3
+TOP 3 30.22500432 60.50000092 90 N 52 0 U7-4
+TOP 4 30.22500432 59.99999938 90 N 42 7 U7-5
+TOP 5 27.2750026 59.99999938 90 N 0 6 U7-6
+TOP 6 27.2750026 60.50000092 90 N 50 0 U7-7
+TOP 7 27.2750026 60.99999992 90 N 45 3 U7-8
+TOP 8 27.2750026 61.49999892 270 N 34 0 U7-9
+TOP 9 27.2750026 62.00000046 270 N 42 6 U7-10
+TOP 10 28.75000346 60.99999992 270 N 42 8 U7-CP
+TOP 11 28.50000396 62.54999936 270 N 42 9 U7-CP
+TOP 12 29.00000296 62.54999936 270 N 42 10 U7-CP
+TOP 13 28.50000396 59.45000048 90 N 42 11 U7-CP
+TOP 14 29.00000296 59.45000048 90 N 42 12 U7-CP
+TOP 15 28.75000346 60.99999992 270 N 42 3 U7-CP
+TOP 16 28.25000446 61.75000096 270 N 42 5 U7-CP
+TOP 17 29.25000246 61.75000096 270 N 42 4 U7-CP
+TOP 18 29.25000246 60.24999888 90 N 42 1 U7-CP
+TOP 19 28.25000446 60.24999888 90 N 42 2 U7-CP
+#
+# CMP 65
+CMP 37 29.00000296 66.00000008 0 N L3 150uH_0.42A ;0=1,1=3.0000
+PRP Brand 'Wurth'
+PRP Brand_Number '744043151'
+PRP Case_Style 'WE-TPC 4828'
+PRP DC_Current '0.42A'
+PRP DC_Resistance '0.770ohm'
+PRP Inductance '150uH'
+PRP Order_Code_Supplier '2082517'
+PRP Price '1,36'
+PRP Q_Factor ''
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-40°C to +125°C'
+TOP 0 31.27500222 66.00000008 270 N 51 3 L3-1
+TOP 1 26.7250037 66.00000008 270 N 45 2 L3-2
+#
+# CMP 66
+CMP 9 33.25000462 59.74999988 0 N C47 10nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C103K5RACTU'
+PRP Capacitance '10nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414609'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 34.10000292 59.74999988 270 N 42 15 C47-1
+TOP 1 32.40000378 59.74999988 270 N 52 1 C47-2
+#
+# CMP 67
+CMP 9 14.70000362 50.6000004 90 N C45 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 14.70000362 51.4499987 180 N 42 20 C45-1
+TOP 1 14.70000362 49.74999956 180 N 45 7 C45-2
+#
+# CMP 68
+CMP 10 24.00000534 67.00000062 180 N C46 10uF ;0=1,1=1.1000
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM21BR71A106KE51L'
+PRP Capacitance '10uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1828828'
+PRP Price '0,36'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '10V'
+TOP 0 23.12500582 67.00000062 90 N 42 16 C46-1
+TOP 1 24.87500486 67.00000062 90 N 45 6 C46-2
+#
+# CMP 69
+CMP 0 25.5999996 16.20000062 90 N R19 100K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603100KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122619'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '100K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 25.5999996 17.04999892 180 N 102 2 R19-1
+TOP 1 25.5999996 15.34999978 180 N 26 10 R19-2
+#
+# CMP 70
+CMP 0 21.10000352 16.20000062 90 N R18 100K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603100KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122619'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '100K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 21.10000352 17.04999892 180 N 25 1 R18-1
+TOP 1 21.10000352 15.34999978 180 N 26 8 R18-2
+#
+# CMP 71
+CMP 22 56.70000344 26.40000054 270 N R20 NTC-100K ;0=1,1=1.1000
+PRP Brand 'VISHAY BC COMPONENTS'
+PRP Brand_Number 'NTCS0805E4104JMT'
+PRP Case_Style '0805'
+PRP Order_Code_Supplier '1187095'
+PRP Power_Rating '0.210W'
+PRP Price '0,59'
+PRP Resistance '100K'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +150°C'
+PRP Type 'NTC-100K'
+TOP 0 56.70000344 25.3500001 0 N 119 26 R20-1
+TOP 1 56.70000344 27.45000098 0 N 25 2 R20-2
+#
+# CMP 72
+CMP 22 18.60000344 36.30000106 180 N R21 NTC-100K ;0=1,1=1.1000
+PRP Brand 'VISHAY BC COMPONENTS'
+PRP Brand_Number 'NTCS0805E4104JMT'
+PRP Case_Style '0805'
+PRP Order_Code_Supplier '1187095'
+PRP Power_Rating '0.210W'
+PRP Price '0,59'
+PRP Resistance '100K'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +150°C'
+PRP Type 'NTC-100K'
+TOP 0 17.550003 36.30000106 90 N 119 21 R21-1
+TOP 1 19.65000388 36.30000106 90 N 102 1 R21-2
+#
+# CMP 73
+CMP 37 32.10000946 51.90000288 0 N L4 150uH_0.42A ;0=1,1=3.0000
+PRP Brand 'Wurth'
+PRP Brand_Number '744043151'
+PRP Case_Style 'WE-TPC 4828'
+PRP DC_Current '0.42A'
+PRP DC_Resistance '0.770ohm'
+PRP Inductance '150uH'
+PRP Order_Code_Supplier '2082517'
+PRP Price '1,36'
+PRP Q_Factor ''
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-40°C to +125°C'
+TOP 0 34.37500872 51.90000288 270 N 55 3 L4-1
+TOP 1 29.8250102 51.90000288 270 N 95 2 L4-2
+#
+# CMP 74
+CMP 7 21.45000282 32.25000408 180 N X1 16MHz ;0=1,1=0.7000
+PRP Brand 'TXC'
+PRP Brand_Number '7M-16.000MAAJ-T'
+PRP Order_Code_Supplier '1842060'
+PRP Price '1,45'
+PRP Supplier 'Farnell'
+TOP 0 20.35000248 31.40000324 180 N 119 15 X1-0
+TOP 1 22.55000316 33.10000492 180 N 119 16 X1-0
+TOP 2 20.35000248 33.10000492 180 N 72 1 X1-1
+TOP 3 22.55000316 31.40000324 180 N 96 1 X1-2
+#
+# CMP 75
+CMP 20 8.50000332 22.70000032 270 N U2 CP2104-F03-GM ;0=1,1=0.9000
+PRP Brand 'Silicon Labs'
+PRP Brand_Number 'CP2104-F03-GM'
+PRP Case_Style 'QFN24'
+PRP Order_Code_Supplier '757-4983'
+PRP Price '1,65'
+PRP Supplier 'RS-Components'
+TOP 0 8.50000332 22.70000032 270 N 119 98 U2-0
+TOP 1 9.75000336 20.69999924 270 N 0 7 U2-1
+TOP 2 9.25000182 20.69999924 270 N 119 97 U2-2
+TOP 3 8.75000282 20.69999924 270 N 109 1 U2-3
+TOP 4 8.25000382 20.69999924 90 N 110 1 U2-4
+TOP 5 7.75000482 20.69999924 90 N 100 2 U2-5
+TOP 6 7.25000328 20.69999924 90 N 100 3 U2-6
+TOP 7 6.50000224 21.45000028 0 N 98 5 U2-7
+TOP 8 6.50000224 21.95000182 0 N 98 4 U2-8
+TOP 9 6.50000224 22.45000082 0 N 29 1 U2-9
+TOP 10 6.50000224 22.94999982 180 N 0 17 U2-10
+TOP 11 6.50000224 23.44999882 180 N 0 18 U2-11
+TOP 12 6.50000224 23.95000036 180 N 0 19 U2-12
+TOP 13 7.25000328 24.7000014 90 N 0 14 U2-13
+TOP 14 7.75000482 24.7000014 90 N 0 13 U2-14
+TOP 15 8.25000382 24.7000014 90 N 0 12 U2-15
+TOP 16 8.75000282 24.7000014 270 N 73 1 U2-16
+TOP 17 9.25000182 24.7000014 270 N 0 16 U2-17
+TOP 18 9.75000336 24.7000014 270 N 0 15 U2-18
+TOP 19 10.5000044 23.95000036 180 N 0 8 U2-19
+TOP 20 10.5000044 23.44999882 180 N 101 1 U2-20
+TOP 21 10.5000044 22.94999982 180 N 105 1 U2-21
+TOP 22 10.5000044 22.45000082 0 N 0 11 U2-22
+TOP 23 10.5000044 21.95000182 0 N 0 10 U2-23
+TOP 24 10.5000044 21.45000028 0 N 0 9 U2-24
+#
+# CMP 76
+CMP 27 30.90000678 39.65000452 180 N U10 LP2985AIM5-3.3 ;0=1,1=1.1000
+PRP Brand 'TEXAS INSTRUMENTS'
+PRP Brand_Number 'LP2985AIM5-3.3/NOPB'
+PRP Case_Style 'SOT-23-5'
+PRP Current '0.15A'
+PRP Order_Code_Supplier '1469134'
+PRP Price '0,73'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-40°C to +85°C'
+PRP Vin-max '5.5V'
+PRP Vin-min '3.6V'
+PRP Vout '3.3V'
+TOP 0 29.60500556 38.70000388 90 N 68 3 U10-1
+TOP 1 29.60500556 39.65000452 90 N 119 73 U10-2
+TOP 2 29.60500556 40.60000516 90 N 88 0 U10-3
+TOP 3 32.195008 40.60000516 90 N 66 1 U10-4
+TOP 4 32.195008 38.70000388 90 N 97 9 U10-5
+#
+# CMP 77
+CMP 19 24.90000354 46.80000038 90 N U9 LM5165YDRCT ;0=1,1=1.1000
+PRP Brand 'Texas Instruments'
+PRP Brand_Number 'LM5165YDRCT'
+PRP Case_Style 'MSOP-8'
+PRP Order_Code_Supplier '595-LM5165YDRCT'
+PRP Price '3,70'
+PRP Supplier 'Mouser'
+PRP Temperature_Range '-40°C to +85°C'
+TOP 0 26.3750044 47.80000092 270 N 64 2 U9-1
+TOP 1 26.3750044 47.29999938 270 N 68 5 U9-2
+TOP 2 26.3750044 46.80000038 270 N 0 0 U9-3
+TOP 3 26.3750044 46.30000138 90 N 67 1 U9-4
+TOP 4 26.3750044 45.79999984 90 N 119 113 U9-5
+TOP 5 23.42500268 45.79999984 90 N 88 2 U9-6
+TOP 6 23.42500268 46.30000138 90 N 65 3 U9-7
+TOP 7 23.42500268 46.80000038 90 N 26 23 U9-8
+TOP 8 23.42500268 47.29999938 270 N 60 2 U9-9
+TOP 9 23.42500268 47.80000092 270 N 119 112 U9-10
+TOP 10 24.90000354 46.80000038 270 N 119 114 U9-CP
+TOP 11 24.65000404 48.34999982 270 N 119 115 U9-CP
+TOP 12 25.15000304 48.34999982 270 N 119 116 U9-CP
+TOP 13 24.65000404 45.25000094 90 N 119 117 U9-CP
+TOP 14 25.15000304 45.25000094 90 N 119 118 U9-CP
+TOP 15 24.90000354 46.80000038 270 N 119 8 U9-CP
+TOP 16 24.40000454 47.55000142 270 N 119 10 U9-CP
+TOP 17 25.40000254 47.55000142 270 N 119 9 U9-CP
+TOP 18 25.40000254 46.04999934 90 N 119 6 U9-CP
+TOP 19 24.40000454 46.04999934 90 N 119 7 U9-CP
+#
+# CMP 78
+CMP 30 20.90000392 11.99999886 180 N U4 74LVC2G08 ;0=1,1=1.1000
+PRP Order_Code_Supplier '771-74LVC2G08DP-G'
+PRP Supplier 'Mouser'
+TOP 0 18.90000284 11.02499954 90 N 14 1 U4-1
+TOP 1 18.90000284 11.67500078 90 N 87 1 U4-2
+TOP 2 18.90000284 12.32499948 90 N 59 0 U4-3
+TOP 3 18.90000284 12.97500072 90 N 119 13 U4-4
+TOP 4 22.90000246 12.97500072 90 N 80 1 U4-5
+TOP 5 22.90000246 12.32499948 90 N 81 1 U4-6
+TOP 6 22.90000246 11.67500078 90 N 58 0 U4-7
+TOP 7 22.90000246 11.02499954 90 N 26 6 U4-8
+#
+# CMP 79
+CMP 21 22.6500055 23.7000034 90 N U3 STM32G474 ;0=1,1=0.5500
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Farnell'
+PRP Supplier_Part_Number_1 '497-STM32G474CEU6-ND'
+PRP Supplier_Part_Number_2 '3132392'
+TOP 0 19.90000592 27.20000402 180 N 0 29 U3-1
+TOP 1 20.40000492 27.20000402 180 N 113 0 U3-2
+TOP 2 20.90000392 27.20000402 180 N 82 0 U3-3
+TOP 3 21.40000546 27.20000402 180 N 41 0 U3-4
+TOP 4 21.90000446 27.20000402 180 N 72 0 U3-5
+TOP 5 22.400006 27.20000402 180 N 96 0 U3-6
+TOP 6 22.900005 27.20000402 180 N 106 0 U3-7
+TOP 7 23.400004 27.20000402 180 N 0 28 U3-8
+TOP 8 23.90000554 27.20000402 180 N 21 0 U3-9
+TOP 9 24.40000454 27.20000402 180 N 116 0 U3-10
+TOP 10 24.90000354 27.20000402 180 N 117 0 U3-11
+TOP 11 25.40000508 27.20000402 180 N 0 27 U3-12
+TOP 12 26.10000368 26.45000298 90 N 0 26 U3-13
+TOP 13 26.10000368 25.95000398 90 N 0 25 U3-14
+TOP 14 26.10000368 25.45000498 90 N 22 0 U3-15
+TOP 15 26.10000368 24.95000344 90 N 86 0 U3-16
+TOP 16 26.10000368 24.45000444 90 N 85 0 U3-17
+TOP 17 26.10000368 23.9500029 90 N 84 0 U3-18
+TOP 18 26.10000368 23.4500039 90 N 83 0 U3-19
+TOP 19 26.10000368 22.9500049 90 N 71 0 U3-20
+TOP 20 26.10000368 22.45000336 90 N 97 1 U3-21
+TOP 21 26.10000368 21.95000436 90 N 0 24 U3-22
+TOP 22 26.10000368 21.45000282 90 N 26 3 U3-23
+TOP 23 26.10000368 20.95000382 90 N 0 23 U3-24
+TOP 24 25.40000508 20.20000278 180 N 0 22 U3-25
+TOP 25 24.90000354 20.20000278 180 N 0 21 U3-26
+TOP 26 24.40000454 20.20000278 180 N 114 0 U3-27
+TOP 27 23.90000554 20.20000278 180 N 115 0 U3-28
+TOP 28 23.400004 20.20000278 180 N 0 20 U3-29
+TOP 29 22.900005 20.20000278 180 N 102 0 U3-30
+TOP 30 22.400006 20.20000278 180 N 25 0 U3-31
+TOP 31 21.90000446 20.20000278 180 N 80 0 U3-32
+TOP 32 21.40000546 20.20000278 180 N 14 0 U3-33
+TOP 33 20.90000392 20.20000278 180 N 87 0 U3-34
+TOP 34 20.40000492 20.20000278 180 N 26 4 U3-35
+TOP 35 19.90000592 20.20000278 180 N 103 0 U3-36
+TOP 36 19.20000478 20.95000382 90 N 104 0 U3-37
+TOP 37 19.20000478 21.45000282 90 N 81 0 U3-38
+TOP 38 19.20000478 21.95000436 90 N 101 0 U3-39
+TOP 39 19.20000478 22.45000336 90 N 105 0 U3-40
+TOP 40 19.20000478 22.9500049 90 N 13 0 U3-41
+TOP 41 19.20000478 23.4500039 90 N 27 0 U3-42
+TOP 42 19.20000478 23.9500029 90 N 121 0 U3-43
+TOP 43 19.20000478 24.45000444 90 N 120 0 U3-44
+TOP 44 19.20000478 24.95000344 90 N 19 0 U3-45
+TOP 45 19.20000478 25.45000498 90 N 92 0 U3-46
+TOP 46 19.20000478 25.95000398 90 N 112 0 U3-47
+TOP 47 19.20000478 26.45000298 90 N 26 5 U3-48
+TOP 48 22.6500055 23.7000034 90 N 119 11 U3-49
+#
+# CMP 80
+CMP 17 31.70001026 15.14999002 270 N U1_ILS LTC6362 ;0=1,1=1.1000
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '584-LTC6362CMS8#PBF'
+TOP 0 32.67500958 12.94998934 270 N 78 0 U1_ILS-1
+TOP 1 32.02501088 12.94998934 270 N 76 0 U1_ILS-2
+TOP 2 31.37500964 12.94998934 90 N 97 10 U1_ILS-3
+TOP 3 30.72501094 12.94998934 90 N 115 1 U1_ILS-4
+TOP 4 30.72501094 17.3499907 90 N 114 1 U1_ILS-5
+TOP 5 31.37500964 17.3499907 90 N 119 74 U1_ILS-6
+TOP 6 32.02501088 17.3499907 270 N 97 11 U1_ILS-7
+TOP 7 32.67500958 17.3499907 270 N 74 0 U1_ILS-8
+#
+# CMP 81
+CMP 17 29.9700061 33.20000218 270 N U1_IHS LTC6362 ;0=1,1=1.1000
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '584-LTC6362CMS8#PBF'
+TOP 0 30.94500542 31.0000015 270 N 79 0 U1_IHS-1
+TOP 1 30.29500672 31.0000015 270 N 77 0 U1_IHS-2
+TOP 2 29.64500548 31.0000015 90 N 97 2 U1_IHS-3
+TOP 3 28.99500678 31.0000015 90 N 117 1 U1_IHS-4
+TOP 4 28.99500678 35.40000286 90 N 116 1 U1_IHS-5
+TOP 5 29.64500548 35.40000286 90 N 119 14 U1_IHS-6
+TOP 6 30.29500672 35.40000286 270 N 97 3 U1_IHS-7
+TOP 7 30.94500542 35.40000286 270 N 75 0 U1_IHS-8
+#
+# CMP 82
+CMP 0 65.30000402 4.40000136 90 N R49_VLS 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 65.30000402 5.24999966 180 N 17 0 R49_VLS-1
+TOP 1 65.30000402 3.55000052 180 N 119 20 R49_VLS-2
+#
+# CMP 83
+CMP 0 46.70000312 42.80000076 90 N R49_VHS 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 46.70000312 43.64999906 180 N 18 0 R49_VHS-1
+TOP 1 46.70000312 41.94999992 180 N 119 24 R49_VHS-2
+#
+# CMP 84
+CMP 0 24.00000534 43.5000019 180 N R44 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 23.15000704 43.5000019 90 N 88 3 R44-1
+TOP 1 24.85000618 43.5000019 90 N 68 7 R44-2
+#
+# CMP 85
+CMP 0 20.50000472 47.80000092 180 N R43 0R ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06030000Z0EA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122112'
+PRP Power_Rating '0.063W'
+PRP Price '0,043'
+PRP Resistance '0R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 200PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 19.65000642 47.80000092 90 N 119 68 R43-1
+TOP 1 21.35000556 47.80000092 90 N 60 1 R43-2
+#
+# CMP 86
+CMP 0 20.50000472 46.20000158 180 N R42 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 19.65000642 46.20000158 90 N 60 0 R42-1
+TOP 1 21.35000556 46.20000158 90 N 65 1 R42-2
+#
+# CMP 87
+CMP 0 20.50000472 44.60000224 0 N R41 78.7K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060378K7FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122606'
+PRP Power_Rating '0.063W'
+PRP Price '0,017'
+PRP Resistance '78.7K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 21.35000302 44.60000224 270 N 65 0 R41-1
+TOP 1 19.65000388 44.60000224 270 N 68 6 R41-2
+#
+# CMP 88
+CMP 1 36.55000564 44.2500004 270 N R39 1M ;0=1,1=1.1000
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC 0.1W 0805 1% 1M'
+PRP Case_Style '0805'
+PRP Order_Code_Supplier '9332413'
+PRP Power_Rating '0.1W'
+PRP Price '0,038'
+PRP Resistance '1M'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +155°C'
+PRP Voltage_Rating '150V'
+TOP 0 36.55000564 43.37500088 0 N 119 35 R39-1
+TOP 1 36.55000564 45.12499992 0 N 61 1 R39-2
+#
+# CMP 89
+CMP 0 45.50000552 46.99999998 180 N R38 200K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603200KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122655'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '200K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 44.65000722 46.99999998 90 N 63 0 R38-1
+TOP 1 46.35000636 46.99999998 90 N 33 0 R38-2
+#
+# CMP 90
+CMP 0 46.30000392 52.90000088 90 N R37 200K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603200KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122655'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '200K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 46.30000392 53.74999918 180 N 119 31 R37-1
+TOP 1 46.30000392 52.05000004 180 N 62 1 R37-2
+#
+# CMP 91
+CMP 0 42.90000564 48.20000012 90 N R36 13K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060313K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122505'
+PRP Power_Rating '0.063W'
+PRP Price '0,0005'
+PRP Resistance '13K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 42.90000564 49.04999842 180 N 119 36 R36-1
+TOP 1 42.90000564 47.34999928 180 N 89 1 R36-2
+#
+# CMP 92
+CMP 0 38.30000468 44.2000005 270 N R35 13K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060313K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122505'
+PRP Power_Rating '0.063W'
+PRP Price '0,0005'
+PRP Resistance '13K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 38.30000468 43.3500022 0 N 119 37 R35-1
+TOP 1 38.30000468 45.05000134 0 N 91 1 R35-2
+#
+# CMP 93
+CMP 1 43.80000638 52.90000088 270 N R34 1M ;0=1,1=1.1000
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC 0.1W 0805 1% 1M'
+PRP Case_Style '0805'
+PRP Order_Code_Supplier '9332413'
+PRP Power_Rating '0.1W'
+PRP Price '0,038'
+PRP Resistance '1M'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +155°C'
+PRP Voltage_Rating '150V'
+TOP 0 43.80000638 52.02500136 0 N 62 2 R34-1
+TOP 1 43.80000638 53.7750004 0 N 90 3 R34-2
+#
+# CMP 94
+CMP 0 41.4000061 48.29999992 270 N R33 180K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603180KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122648'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '180K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 41.4000061 47.45000162 0 N 89 0 R33-1
+TOP 1 41.4000061 49.15000076 0 N 95 6 R33-2
+#
+# CMP 95
+CMP 0 42.1000047 52.90000088 270 N R32 180K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW0603180KFKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122648'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '180K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 42.1000047 52.05000258 0 N 91 0 R32-1
+TOP 1 42.1000047 53.75000172 0 N 90 4 R32-2
+#
+# CMP 96
+CMP 0 15.60000436 20.20000024 180 N R17 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 14.75000606 20.20000024 90 N 119 28 R17-1
+TOP 1 16.4500052 20.20000024 90 N 81 2 R17-2
+#
+# CMP 97
+CMP 0 17.0000041 16.20000062 90 N R16 10K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 17.0000041 17.04999892 180 N 119 27 R16-1
+TOP 1 17.0000041 15.34999978 180 N 87 2 R16-2
+#
+# CMP 98
+CMP 0 15.60000436 26.30000074 0 N R15 10k ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 16.45000266 26.30000074 270 N 92 1 R15-1
+TOP 1 14.75000352 26.30000074 270 N 119 40 R15-2
+#
+# CMP 99
+CMP 0 25.6999994 32.249999 90 N R14 10k ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW060310K0FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122493'
+PRP Power_Rating '0.063W'
+PRP Price '0,038'
+PRP Resistance '10K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 25.6999994 33.0999973 180 N 26 11 R14-1
+TOP 1 25.6999994 31.39999816 180 N 106 1 R14-2
+#
+# CMP 100
+CMP 0 34.20001034 17.1499911 90 N R10_ILS 47k ;0=1,1=1.3500
+PRP Brand ''
+PRP Brand_Number ''
+PRP Case_Style '0603'
+PRP Order_Code_Supplier ''
+PRP Power_Rating '0.063W'
+PRP Price ''
+PRP Resistance '47k'
+PRP Supplier 'Farnell'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1577628'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 34.20001034 17.9999894 180 N 74 3 R10_ILS-1
+TOP 1 34.20001034 16.29999026 180 N 114 3 R10_ILS-2
+#
+# CMP 101
+CMP 0 32.65000074 34.95000122 90 N R10_IHS 47k ;0=1,1=1.3500
+PRP Brand ''
+PRP Brand_Number ''
+PRP Case_Style '0603'
+PRP Order_Code_Supplier ''
+PRP Power_Rating '0.063W'
+PRP Price ''
+PRP Resistance '47k'
+PRP Supplier 'Farnell'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1577628'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 32.65000074 35.79999952 180 N 75 2 R10_IHS-1
+TOP 1 32.65000074 34.10000038 180 N 116 2 R10_IHS-2
+#
+# CMP 102
+CMP 0 37.20001196 17.1499911 270 N R9_ILS 1K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06031K00FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122366'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '1K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 37.20001196 16.2999928 0 N 107 0 R9_ILS-1
+TOP 1 37.20001196 17.99999194 0 N 74 2 R9_ILS-2
+#
+# CMP 103
+CMP 0 35.65000236 34.95000122 270 N R9_IHS 1K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06031K00FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122366'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '1K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 35.65000236 34.10000292 0 N 94 1 R9_IHS-1
+TOP 1 35.65000236 35.80000206 0 N 75 1 R9_IHS-2
+#
+# CMP 104
+CMP 0 34.20001034 13.14999148 270 N R8_ILS 47k ;0=1,1=1.3500
+PRP Brand ''
+PRP Brand_Number ''
+PRP Case_Style '0603'
+PRP Order_Code_Supplier ''
+PRP Power_Rating '0.063W'
+PRP Price ''
+PRP Resistance '47k'
+PRP Supplier 'Farnell'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1577628'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 34.20001034 12.29999318 0 N 78 2 R8_ILS-1
+TOP 1 34.20001034 13.99999232 0 N 115 3 R8_ILS-2
+#
+# CMP 105
+CMP 0 32.65000074 31.45000314 270 N R8_IHS 47k ;0=1,1=1.3500
+PRP Brand ''
+PRP Brand_Number ''
+PRP Case_Style '0603'
+PRP Order_Code_Supplier ''
+PRP Power_Rating '0.063W'
+PRP Price ''
+PRP Resistance '47k'
+PRP Supplier 'Farnell'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1577628'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 32.65000074 30.60000484 0 N 79 2 R8_IHS-1
+TOP 1 32.65000074 32.30000398 0 N 117 2 R8_IHS-2
+#
+# CMP 106
+CMP 0 37.20001196 13.14999148 90 N R7_ILS 1K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06031K00FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122366'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '1K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 37.20001196 13.99998978 180 N 93 0 R7_ILS-1
+TOP 1 37.20001196 12.29999064 180 N 78 3 R7_ILS-2
+#
+# CMP 107
+CMP 0 35.65000236 31.45000314 90 N R7_IHS 1K ;0=1,1=1.3500
+PRP Brand 'VISHAY DRALORIC'
+PRP Brand_Number 'CRCW06031K00FKEA'
+PRP Case_Style '0603'
+PRP Order_Code_Supplier '2122366'
+PRP Power_Rating '0.063W'
+PRP Price '0,039'
+PRP Resistance '1K'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 100PPM'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 35.65000236 32.30000144 180 N 108 1 R7_IHS-1
+TOP 1 35.65000236 30.6000023 180 N 79 1 R7_IHS-2
+#
+# CMP 108
+CMP 2 59.00000392 16.00000102 180 N R6_ILS 0.005R ;0=1,1=1.1000
+PRP Brand 'OHMITE'
+PRP Brand_Number 'FC4L64R005FER'
+PRP Case_Style '2512'
+PRP Order_Code_Supplier '2363991'
+PRP Power_Rating '2W'
+PRP Price '3,07'
+PRP Resistance '0.005R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 50PPM'
+PRP Temperature_Range '-55°C to +170°C'
+PRP Voltage_Rating '200V'
+TOP 0 57.40000458 16.59999982 0 N 119 76 R6_ILS-1
+TOP 1 60.60000326 16.59999982 0 N 70 3 R6_ILS-2
+TOP 2 57.40000458 13.05000184 0 N 107 1 R6_ILS-3
+TOP 3 60.60000326 13.05000184 0 N 93 1 R6_ILS-4
+#
+# CMP 109
+CMP 2 78.00000402 51.50000114 90 N R6_IHS 0.005R ;0=1,1=1.1000
+PRP Brand 'OHMITE'
+PRP Brand_Number 'FC4L64R005FER'
+PRP Case_Style '2512'
+PRP Order_Code_Supplier '2363991'
+PRP Power_Rating '2W'
+PRP Price '3,07'
+PRP Resistance '0.005R'
+PRP Supplier 'Farnell'
+PRP Temperature_Coefficient '± 50PPM'
+PRP Temperature_Range '-55°C to +170°C'
+PRP Voltage_Rating '200V'
+TOP 0 78.60000282 53.10000048 90 N 119 12 R6_IHS-1
+TOP 1 78.60000282 49.9000018 90 N 53 1 R6_IHS-2
+TOP 2 75.05000484 53.10000048 90 N 94 0 R6_IHS-3
+TOP 3 75.05000484 49.9000018 90 N 108 0 R6_IHS-4
+#
+# CMP 110
+CMP 26 45.50000552 49.40000026 270 N Q3 MMBT5401LT1G ;0=1,1=1.1000
+PRP Base_Emittor_Voltage '6V'
+PRP Brand 'ON SEMICONDUCTOR'
+PRP Brand_Number 'MMBT5401LT1G'
+PRP Case_Style 'SOT-23'
+PRP Collector_Current '-0.5A'
+PRP Collector_Emittor_Voltage '160V'
+PRP Hfe '60 to 240'
+PRP Order_Code_Supplier '1459108'
+PRP Price '0,041'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +150°C'
+PRP Transistor_Polarity 'PNP'
+TOP 0 44.50000498 48.44999962 270 N 63 1 Q3-1
+TOP 1 44.50000498 50.3500009 270 N 62 0 Q3-2
+TOP 2 46.50000606 49.40000026 270 N 61 0 Q3-3
+#
+# CMP 111
+CMP 15 52.00000522 23.60000106 0 N Q2 GS61008T ;0=1,1=0.5000
+TOP 0 52.00000522 25.1500005 180 N 56 8 Q2-D
+TOP 1 55.0500042 22.20000132 180 N 4 0 Q2-G1
+TOP 2 48.95000624 22.20000132 180 N 3 2 Q2-G2
+TOP 3 52.00000522 22.05000162 180 N 119 54 Q2-S
+#
+# CMP 112
+CMP 15 52.00000522 30.30000036 0 N Q1 GS61008T ;0=1,1=0.5000
+TOP 0 52.00000522 31.8499998 180 N 57 4 Q1-D
+TOP 1 55.0500042 28.90000062 180 N 6 1 Q1-G1
+TOP 2 48.95000624 28.90000062 180 N 5 3 Q1-G2
+TOP 3 52.00000522 28.75000092 180 N 56 7 Q1-S
+#
+# CMP 113
+CMP 37 25.20000548 51.90000034 0 N L5 150uH_0.42A ;0=1,1=3.0000
+PRP Brand 'Wurth'
+PRP Brand_Number '744043151'
+PRP Case_Style 'WE-TPC 4828'
+PRP DC_Current '0.42A'
+PRP DC_Resistance '0.770ohm'
+PRP Inductance '150uH'
+PRP Order_Code_Supplier '2082517'
+PRP Price '1,36'
+PRP Q_Factor ''
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-40°C to +125°C'
+TOP 0 27.47500474 51.90000034 270 N 64 3 L5-1
+TOP 1 22.92500622 51.90000034 270 N 26 24 L5-2
+#
+# CMP 114
+CMP 24 19.80000104 40.60000008 180 N D7 MMSD701T1G ;0=1,1=1.1000
+PRP Brand 'ON SEMICONDUCTOR'
+PRP Brand_Number 'MMSD701T1G'
+PRP Case_Style 'SOD-123'
+PRP Forward_Current '0.2A'
+PRP Forward_Voltage '0.5V'
+PRP Order_Code_Supplier '1431102'
+PRP Price '0,115'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Vrrm '70V'
+TOP 0 18.1650005 40.60000008 0 N 98 0 D7-1
+TOP 1 21.43500158 40.60000008 0 N 68 8 D7-2
+#
+# CMP 115
+CMP 24 28.50000396 42.60000116 0 N D6 MMSD701T1G ;0=1,1=1.1000
+PRP Brand 'ON SEMICONDUCTOR'
+PRP Brand_Number 'MMSD701T1G'
+PRP Case_Style 'SOD-123'
+PRP Forward_Current '0.2A'
+PRP Forward_Voltage '0.5V'
+PRP Order_Code_Supplier '1431102'
+PRP Price '0,115'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Vrrm '70V'
+TOP 0 30.1350045 42.60000116 180 N 95 7 D6-1
+TOP 1 26.86500342 42.60000116 180 N 68 4 D6-2
+#
+# CMP 116
+CMP 24 19.80000612 42.80000076 180 N D5 MMSD701T1G ;0=1,1=1.1000
+PRP Brand 'ON SEMICONDUCTOR'
+PRP Brand_Number 'MMSD701T1G'
+PRP Case_Style 'SOD-123'
+PRP Forward_Current '0.2A'
+PRP Forward_Voltage '0.5V'
+PRP Order_Code_Supplier '1431102'
+PRP Price '0,115'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Vrrm '70V'
+TOP 0 18.16500558 42.80000076 0 N 98 1 D5-1
+TOP 1 21.43500666 42.80000076 0 N 65 2 D5-2
+#
+# CMP 117
+CMP 25 11.90000414 18.2000017 270 N D1 SP0502BAHTG ;0=1,1=1.1000
+PRP Brand 'LITTLEFUSE'
+PRP Brand_Number 'SP0502BAHTG'
+PRP Case_Style 'SOT-23'
+PRP Clamping_Voltage '8V'
+PRP Order_Code_Supplier '1827631'
+PRP Price '0,80'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-40°C to +125°C'
+PRP Vrwm '5.5V'
+TOP 0 12.95000458 18.2000017 270 N 119 38 D1-A
+TOP 1 10.8500037 17.25000106 270 N 110 0 D1-K1
+TOP 2 10.8500037 19.15000234 270 N 109 0 D1-K2
+#
+# CMP 118
+CMP 9 31.00000658 10.19999992 270 N C58 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61A225ME34D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style 'C0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '2426956'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +85°C'
+PRP Voltage_Rating '10V'
+TOP 0 31.00000658 9.35000162 0 N 119 67 C58-1
+TOP 1 31.00000658 11.05000076 0 N 97 8 C58-2
+#
+# CMP 119
+CMP 9 34.50000466 40.50000282 0 N C57 10nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C103K5RACTU'
+PRP Capacitance '10nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414609'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 35.35000296 40.50000282 270 N 119 71 C57-1
+TOP 1 33.65000382 40.50000282 270 N 66 0 C57-2
+#
+# CMP 120
+CMP 9 46.50000098 37.7000008 90 N C56 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61C225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '+/- 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '1735526'
+PRP Price '0,077'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to 85°C'
+PRP Voltage_Rating '16V'
+TOP 0 46.50000098 38.5499991 180 N 119 89 C56-1
+TOP 1 46.50000098 36.84999996 180 N 46 4 C56-2
+#
+# CMP 121
+CMP 9 29.2000051 46.50000098 0 N C55 10nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C103K5RACTU'
+PRP Capacitance '10nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414609'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 30.0500034 46.50000098 270 N 119 69 C55-1
+TOP 1 28.35000426 46.50000098 270 N 67 0 C55-2
+#
+# CMP 122
+CMP 9 20.60000452 51.20000174 180 N C54 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 19.75000622 51.20000174 90 N 119 93 C54-1
+TOP 1 21.45000536 51.20000174 90 N 26 22 C54-2
+#
+# CMP 123
+CMP 10 20.60000452 53.00000068 180 N C53 10uF ;0=1,1=1.1000
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM21BR71A106KE51L'
+PRP Capacitance '10uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1828828'
+PRP Price '0,36'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '10V'
+TOP 0 19.725005 53.00000068 90 N 119 66 C53-1
+TOP 1 21.47500404 53.00000068 90 N 26 20 C53-2
+#
+# CMP 124
+CMP 10 29.2000051 44.80000184 0 N C52 2.2uF ;0=1,1=1.1000
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM219R61H225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '2611933'
+PRP Price '0,113'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 30.07500462 44.80000184 270 N 119 65 C52-1
+TOP 1 28.32500558 44.80000184 270 N 68 1 C52-2
+#
+# CMP 125
+CMP 9 41.4000061 44.2000005 270 N C51 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 41.4000061 43.3500022 0 N 119 23 C51-1
+TOP 1 41.4000061 45.05000134 0 N 69 0 C51-2
+#
+# CMP 126
+CMP 10 33.10000492 45.60000024 0 N C50 4.7uF ;0=1,1=1.1000
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM21BR71C475KA73L'
+PRP Capacitance '4.7uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1797015'
+PRP Price '0,26'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 33.97500444 45.60000024 270 N 119 34 C50-1
+TOP 1 32.2250054 45.60000024 270 N 95 5 C50-2
+#
+# CMP 127
+CMP 10 33.05000502 43.6000017 0 N C49 4.7uF ;0=1,1=1.1000
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM21BR71C475KA73L'
+PRP Capacitance '4.7uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1797015'
+PRP Price '0,26'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 33.92500454 43.6000017 270 N 119 33 C49-1
+TOP 1 32.1750055 43.6000017 270 N 95 4 C49-2
+#
+# CMP 128
+CMP 10 33.05000502 47.60000132 0 N C48 4.7uF ;0=1,1=1.1000
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM21BR71C475KA73L'
+PRP Capacitance '4.7uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1797015'
+PRP Price '0,26'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 33.92500454 47.60000132 270 N 119 32 C48-1
+TOP 1 32.1750055 47.60000132 270 N 95 3 C48-2
+#
+# CMP 129
+CMP 10 62.50000454 13.99999994 90 N C35 100nF ;0=1,1=1.1000
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0805C104K1RACTU'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0805'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1650862'
+PRP Price '0,096'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 62.50000454 14.87499946 180 N 70 2 C35-1
+TOP 1 62.50000454 13.12500042 180 N 99 1 C35-2
+#
+# CMP 130
+CMP 11 55.5000033 36.40000086 90 N C33 1uF ;0=1,1=0.0000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 55.5000033 37.9000004 180 N 119 50 C33-1
+TOP 1 55.5000033 34.90000132 180 N 57 2 C33-2
+#
+# CMP 131
+CMP 11 53.30000516 36.40000086 90 N C32 1uF ;0=1,1=0.0000
+PRP Brand 'AVX'
+PRP Brand_Number '12061C105K4Z2A'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1833855'
+PRP Price '0,52'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 53.30000516 37.9000004 180 N 119 51 C32-1
+TOP 1 53.30000516 34.90000132 180 N 57 3 C32-2
+#
+# CMP 132
+CMP 9 44.50000498 20.00000064 180 N C31 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 43.65000668 20.00000064 90 N 119 103 C31-1
+TOP 1 45.35000582 20.00000064 90 N 10 4 C31-2
+#
+# CMP 133
+CMP 9 44.50000498 21.50000018 180 N C30 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61C225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '+/- 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '1735526'
+PRP Price '0,077'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to 85°C'
+PRP Voltage_Rating '16V'
+TOP 0 43.65000668 21.50000018 90 N 119 102 C30-1
+TOP 1 45.35000582 21.50000018 90 N 10 3 C30-2
+#
+# CMP 134
+CMP 11 57.60000418 55.60000056 90 N C29 100nF ;0=1,1=0.0000
+PRP Brand 'KEMET'
+PRP Brand_Number 'C1206C104K1RACTU'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '1206'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414714'
+PRP Price '0,079'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '100V'
+TOP 0 57.60000418 57.1000001 180 N 11 1 C29-1
+TOP 1 57.60000418 54.10000102 180 N 119 49 C29-2
+#
+# CMP 135
+CMP 9 24.10000006 16.20000062 270 N C21 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 24.10000006 15.35000232 0 N 119 29 C21-1
+TOP 1 24.10000006 17.05000146 0 N 102 3 C21-2
+#
+# CMP 136
+CMP 9 22.60000052 16.20000062 270 N C20 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 22.60000052 15.35000232 0 N 119 30 C20-1
+TOP 1 22.60000052 17.05000146 0 N 25 3 C20-2
+#
+# CMP 137
+CMP 9 12.90000468 41.70000042 270 N C19 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 12.90000468 40.85000212 0 N 119 48 C19-1
+TOP 1 12.90000468 42.55000126 0 N 26 16 C19-2
+#
+# CMP 138
+CMP 9 38.80000368 26.50000034 270 N C18 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 38.80000368 25.65000204 0 N 119 47 C18-1
+TOP 1 38.80000368 27.35000118 0 N 26 15 C18-2
+#
+# CMP 139
+CMP 9 18.50000364 16.20000062 270 N C16 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 18.50000364 15.35000232 0 N 119 45 C16-1
+TOP 1 18.50000364 17.05000146 0 N 26 13 C16-2
+#
+# CMP 140
+CMP 9 30.4000027 23.90000046 0 N C15 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 31.250001 23.90000046 270 N 119 91 C15-1
+TOP 1 29.55000186 23.90000046 270 N 71 1 C15-2
+#
+# CMP 141
+CMP 9 30.4000027 25.4 0 N C14 1uF ;0=1,1=1.3500
+PRP Brand 'TDK'
+PRP Brand_Number 'C1608X5R1A105K080AC'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style 'C0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '2346890'
+PRP Price '0,0083'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +85°C'
+PRP Voltage_Rating '10V'
+TOP 0 31.250001 25.4 270 N 119 92 C14-1
+TOP 1 29.55000186 25.4 270 N 71 2 C14-2
+#
+# CMP 142
+CMP 9 34.50000466 38.70000134 0 N C13 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 35.35000296 38.70000134 270 N 119 44 C13-1
+TOP 1 33.65000382 38.70000134 270 N 97 5 C13-2
+#
+# CMP 143
+CMP 9 30.4000027 22.40000092 0 N C12 1uF ;0=1,1=1.3500
+PRP Brand 'TDK'
+PRP Brand_Number 'C1608X5R1A105K080AC'
+PRP Capacitance '1uF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style 'C0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '2346890'
+PRP Price '0,0083'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +85°C'
+PRP Voltage_Rating '10V'
+TOP 0 31.250001 22.40000092 270 N 119 57 C12-1
+TOP 1 29.55000186 22.40000092 270 N 97 7 C12-2
+#
+# CMP 144
+CMP 9 24.2000024 32.25000408 90 N C11 15pF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000194'
+PRP Capacitance '15pF'
+PRP Capacitance_Tolerance '± 5%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'C0G / NP0'
+PRP Order_Code_Supplier '1759055'
+PRP Price '0,009'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 24.2000024 33.10000238 180 N 119 43 C11-1
+TOP 1 24.2000024 31.40000324 180 N 96 2 C11-2
+#
+# CMP 145
+CMP 9 18.70000324 32.25000408 270 N C10 15pF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000194'
+PRP Capacitance '15pF'
+PRP Capacitance_Tolerance '± 5%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'C0G / NP0'
+PRP Order_Code_Supplier '1759055'
+PRP Price '0,009'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 18.70000324 31.40000578 0 N 119 42 C10-1
+TOP 1 18.70000324 33.10000492 0 N 72 2 C10-2
+#
+# CMP 146
+CMP 9 24.50000434 11.49999986 90 N C9 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 24.50000434 12.34999816 180 N 119 41 C9-1
+TOP 1 24.50000434 10.64999902 180 N 26 12 C9-2
+#
+# CMP 147
+CMP 9 3.60000296 19.90000084 180 N C8 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61C225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '+/- 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '1735526'
+PRP Price '0,077'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to 85°C'
+PRP Voltage_Rating '16V'
+TOP 0 2.75000466 19.90000084 90 N 119 94 C8-1
+TOP 1 4.4500038 19.90000084 90 N 100 0 C8-2
+#
+# CMP 148
+CMP 9 8.20000392 26.40000054 180 N C7 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61C225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '+/- 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '1735526'
+PRP Price '0,077'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to 85°C'
+PRP Voltage_Rating '16V'
+TOP 0 7.35000562 26.40000054 90 N 119 39 C7-1
+TOP 1 9.05000476 26.40000054 90 N 73 0 C7-2
+#
+# CMP 149
+CMP 9 3.60000296 22.89999992 180 N C6 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MCCA000255'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759122RL'
+PRP Price '0,008'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 2.75000466 22.89999992 90 N 119 95 C6-1
+TOP 1 4.4500038 22.89999992 90 N 98 2 C6-2
+#
+# CMP 150
+CMP 9 3.60000296 21.40000038 180 N C5 2.2uF ;0=1,1=1.3500
+PRP Brand 'MURATA'
+PRP Brand_Number 'GRM188R61C225KE15D'
+PRP Capacitance '2.2uF'
+PRP Capacitance_Tolerance '+/- 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X5R'
+PRP Order_Code_Supplier '1735526'
+PRP Price '0,077'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to 85°C'
+PRP Voltage_Rating '16V'
+TOP 0 2.75000466 21.40000038 90 N 119 96 C5-1
+TOP 1 4.4500038 21.40000038 90 N 98 3 C5-2
+#
+# CMP 151
+CMP 9 35.70001242 17.1499911 90 N C4_ILS 1nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C102K5RACTU'
+PRP Capacitance '1nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414608'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 35.70001242 17.9999894 180 N 74 1 C4_ILS-1
+TOP 1 35.70001242 16.29999026 180 N 114 2 C4_ILS-2
+#
+# CMP 152
+CMP 9 34.15000028 34.95000122 90 N C4_IHS 1nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C102K5RACTU'
+PRP Capacitance '1nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414608'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 34.15000028 35.79999952 180 N 75 3 C4_IHS-1
+TOP 1 34.15000028 34.10000038 180 N 116 3 C4_IHS-2
+#
+# CMP 153
+CMP 9 32.50000612 10.19999992 270 N C3_ILS 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 32.50000612 9.35000162 0 N 119 75 C3_ILS-1
+TOP 1 32.50000612 11.05000076 0 N 76 1 C3_ILS-2
+#
+# CMP 154
+CMP 9 32.00000458 28.90000062 0 N C3_IHS 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 32.85000288 28.90000062 270 N 119 56 C3_IHS-1
+TOP 1 31.15000374 28.90000062 270 N 77 1 C3_IHS-2
+#
+# CMP 155
+CMP 9 30.4000027 20.90000138 0 N C2_ILS 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 31.250001 20.90000138 270 N 119 55 C2_ILS-1
+TOP 1 29.55000186 20.90000138 270 N 97 6 C2_ILS-2
+#
+# CMP 156
+CMP 9 28.60000376 28.90000062 180 N C2_IHS 100nF ;0=1,1=1.3500
+PRP Brand 'MULTICOMP'
+PRP Brand_Number 'MC0603B104K160CT'
+PRP Capacitance '100nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1759016'
+PRP Price '0,01'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '16V'
+TOP 0 27.75000546 28.90000062 90 N 119 25 C2_IHS-1
+TOP 1 29.4500046 28.90000062 90 N 97 4 C2_IHS-2
+#
+# CMP 157
+CMP 9 35.70001242 13.14999148 270 N C1_ILS 1nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C102K5RACTU'
+PRP Capacitance '1nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414608'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 35.70001242 12.29999318 0 N 78 1 C1_ILS-1
+TOP 1 35.70001242 13.99999232 0 N 115 2 C1_ILS-2
+#
+# CMP 158
+CMP 9 34.15000028 31.45000314 270 N C1_IHS 1nF ;0=1,1=1.3500
+PRP Brand 'KEMET'
+PRP Brand_Number 'C0603C102K5RACTU'
+PRP Capacitance '1nF'
+PRP Capacitance_Tolerance '± 10%'
+PRP Capacitor_Case_Style '0603'
+PRP Dielectric_Characteristic 'X7R'
+PRP Order_Code_Supplier '1414608'
+PRP Price '0,011'
+PRP Supplier 'Farnell'
+PRP Temperature_Range '-55°C to +125°C'
+PRP Voltage_Rating '50V'
+TOP 0 34.15000028 30.60000484 0 N 79 3 C1_IHS-1
+TOP 1 34.15000028 32.30000398 0 N 117 3 C1_IHS-2
+#

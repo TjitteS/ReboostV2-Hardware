@@ -1,0 +1,1133 @@
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM188R61C225KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/- 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1735526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM188R61C225KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/- 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1735526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71E104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2456106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM188R61C225KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/- 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1735526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0805)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM21BR71C475KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1797015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0805)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM21BR71C475KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1797015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Brand"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "MCCA000255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1759122RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0805)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM21BR71C475KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1797015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Brand"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "MC0603B104K160CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1759016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-1206)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM31CR61H106KA12L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2906849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71H102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1828882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to Max: 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71H102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1828882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to Max: 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM1555C1H150JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2218840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0097"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "04026D105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1327658"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71H102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1828882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to Max: 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71H102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1828882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to Max: 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71H102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1828882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to Max: 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "04026D105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1327658"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0874"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6V3"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM1555C1H150JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2218840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0097"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0402)
+Add component (AddParameter): Name = "Brand"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "885012105004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "470 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2533924"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0832"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71H102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1828882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to Max: 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0402)
+Add component (AddParameter): Name = "Brand"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "47 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0402)
+Add component (AddParameter): Name = "Brand"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "47 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2408523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOT23)
+Add component (AddParameter): Name = "Brand"; Value = "LITTLEFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "SP0502BAHTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1827631"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vrwm"; Value = "5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(PowerDI123)
+Add component (AddParameter): Name = "Brand"; Value = "DIODES INC."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "SBR1U200P1-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "DO-214AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "0.82V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2543581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vrrm"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(QFN24)
+Add component (AddParameter): Name = "Brand"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CP2104-F03-GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "QFN24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "757-4983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1,65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "RS-Components"; VariantName = "[No Variations]"
+Added Component: Designator=J?(USB3075 - NOSLOT)
+Add component (AddParameter): Name = "Brand"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "USB3075-30-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "Micro B SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2443116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=J?(PC 4/ 4-G-7,62)
+Add component (AddParameter): Name = "Brand"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "PC 4/4-G-7,62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1792930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2,92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=J?(53398-0571)
+Add component (AddParameter): Name = "Brand"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "53398-0571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1125354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1,55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=L?(WE-PD-L)
+Add component (AddParameter): Name = "Brand"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "744771220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "1260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current"; Value = "0.96A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.4ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "220uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "744771220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q Factor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Added Component: Designator=L?(WE-TPC 8043)
+Add component (AddParameter): Name = "Brand"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "744071101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "8043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.32Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "100uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2114327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1,90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q Factor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Added Component: Designator=P?(662006230822)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6620xx230822.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "662006230822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=P?(662006230822)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6620xx230822.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "662006230822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=R?_IHS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW06031K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_IHS(2512-L-4T)
+Add component (AddParameter): Name = "Brand"; Value = "OHMITE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "FC4L64R005FER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2363991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3,07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.005R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 50PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +170°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_IHS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_IHS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW06031K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_IHS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_ILS(2512-L-4T)
+Add component (AddParameter): Name = "Brand"; Value = "OHMITE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "FC4L64R005FER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2363991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3,07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.005R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 50PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +170°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_ILS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_ILS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW06031K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_ILS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?_ILS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW06031K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0402240RFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121522"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0402240RFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121522"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060313K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "13K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603180KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "180K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603180KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "180K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW060313K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "13K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Brand"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "MC0063W06031100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "9330402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "NTCS0805E4104JMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1187095"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2121730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2059190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "9239111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2059190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "9239111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0402)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2059190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(7M)
+Add component (AddParameter): Name = "Brand"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "7M-16.000MAAJ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "1842060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1,45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=3V3 Pin=L?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Net: Name=12V
+Added Net: Name=CANRX
+Added Net: Name=CANTX
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?_IHS-2
+Added Pin To Net: NetName=GND Pin=R?_ILS-1
+Added Net: Name=GND
+Added Pin To Net: NetName=HSG Pin=R?-2
+Added Net: Name=HSG
+Added Pin To Net: NetName=HS Pin=L?-2
+Added Net: Name=HS
+Added Pin To Net: NetName=IS_IHS_N Pin=R?_IHS-2
+Added Net: Name=IS_IHS_N
+Added Pin To Net: NetName=IS_IHS_P Pin=R?_IHS-2
+Added Net: Name=IS_IHS_P
+Added Pin To Net: NetName=IS_ILS_N Pin=R?_ILS-2
+Added Net: Name=IS_ILS_N
+Added Pin To Net: NetName=IS_ILS_P Pin=R?_ILS-2
+Added Net: Name=IS_ILS_P
+Added Net: Name=LED0
+Added Net: Name=LED1
+Added Net: Name=LED2
+Added Net: Name=LED3
+Added Net: Name=LSG
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?_ILS-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=X?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_K1 Pin=D?-K1
+Added Pin To Net: NetName=NetD?_K1 Pin=IC?-4
+Added Pin To Net: NetName=NetD?_K1 Pin=J?-2
+Added Net: Name=NetD?_K1
+Added Pin To Net: NetName=NetD?_K2 Pin=D?-K2
+Added Pin To Net: NetName=NetD?_K2 Pin=IC?-3
+Added Pin To Net: NetName=NetD?_K2 Pin=J?-3
+Added Net: Name=NetD?_K2
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-9
+Added Pin To Net: NetName=NetIC?_9 Pin=R?-1
+Added Net: Name=NetIC?_9
+Added Pin To Net: NetName=NetIC?_20 Pin=IC?-20
+Added Pin To Net: NetName=NetIC?_20 Pin=R?-2
+Added Net: Name=NetIC?_20
+Added Pin To Net: NetName=NetIC?_21 Pin=IC?-21
+Added Pin To Net: NetName=NetIC?_21 Pin=R?-2
+Added Net: Name=NetIC?_21
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=R?_IHS-1
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=NetL?_3 Pin=L?-3
+Added Pin To Net: NetName=NetL?_3 Pin=R?-1
+Added Pin To Net: NetName=NetL?_3 Pin=R?-2
+Added Net: Name=NetL?_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetR?_IHS_1 Pin=R?_IHS-1
+Added Pin To Net: NetName=NetR?_IHS_1 Pin=R?_IHS-4
+Added Net: Name=NetR?_IHS_1
+Added Pin To Net: NetName=NetR?_ILS_1 Pin=R?_ILS-1
+Added Pin To Net: NetName=NetR?_ILS_1 Pin=R?_ILS-3
+Added Net: Name=NetR?_ILS_1
+Added Pin To Net: NetName=P1_h Pin=R?-2
+Added Net: Name=P1_h
+Added Net: Name=P1_IL
+Added Pin To Net: NetName=P1_l Pin=R?-2
+Added Net: Name=P1_l
+Added Net: Name=P1_T
+Added Net: Name=P1_Vin
+Added Net: Name=P1EN
+Added Net: Name=P1 HS / EN
+Added Net: Name=P1HSEN
+Added Net: Name=P1 LS / PWM
+Added Pin To Net: NetName=P2_h Pin=R?-2
+Added Net: Name=P2_h
+Added Net: Name=P2_IL
+Added Pin To Net: NetName=P2_l Pin=R?-2
+Added Net: Name=P2_l
+Added Net: Name=P2_T
+Added Net: Name=P2_Vin
+Added Net: Name=P2EN
+Added Net: Name=P2 HS / EN
+Added Net: Name=P2HSEN
+Added Net: Name=P2 LS / PWM
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=L?-2
+Added Pin To Net: NetName=PGND Pin=L?-2
+Added Pin To Net: NetName=PGND Pin=R?-1
+Added Pin To Net: NetName=PGND Pin=R?-1
+Added Net: Name=PGND
+Added Pin To Net: NetName=R\S\T\ Pin=J?-2
+Added Pin To Net: NetName=R\S\T\ Pin=R?-1
+Added Net: Name=R\S\T\
+Added Net: Name=RX
+Added Pin To Net: NetName=SWCLK Pin=J?-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J?-3
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=Tsense Pin=C?-2
+Added Pin To Net: NetName=Tsense Pin=R?-1
+Added Pin To Net: NetName=Tsense Pin=R?-2
+Added Net: Name=Tsense
+Added Net: Name=TX
+Added Pin To Net: NetName=VDD_CP Pin=C?-2
+Added Pin To Net: NetName=VDD_CP Pin=IC?-5
+Added Pin To Net: NetName=VDD_CP Pin=IC?-6
+Added Pin To Net: NetName=VDD_CP Pin=R?-2
+Added Net: Name=VDD_CP
+Added Pin To Net: NetName=VD Pin=C?-2
+Added Pin To Net: NetName=VD Pin=C?-2
+Added Pin To Net: NetName=VD Pin=R?-1
+Added Net: Name=VD
+Added Pin To Net: NetName=Vin Pin=C?-2
+Added Pin To Net: NetName=Vin Pin=J?-2
+Added Pin To Net: NetName=Vin Pin=J?-2
+Added Pin To Net: NetName=Vin Pin=L?-1
+Added Net: Name=Vin
+Added Net: Name=Vout
+Added Class: Name=CAN
+Added Class: Name=Controller
+Added Class: Name=Driver
+Added Class: Name=IHS
+Added Class: Name=ILS
+Added Class: Name=PowerElectronics
+Added Class: Name=PSU
+Added Class: Name=ReboostV2_toplevel
+Added Class: Name=USB
+Added Class: Name=HVAC
+Added Differential Pair: Name=IS_IHS
+Added Differential Pair: Name=IS_ILS
+Added Class: Name=ReboostV2__Isense
+Added Room: Name=CAN
+Added Room: Name=Controller
+Added Room: Name=Driver
+Added Room: Name=IHS
+Added Room: Name=ILS
+Added Room: Name=PowerElectronics
+Added Room: Name=PSU
+Added Room: Name=ReboostV2_toplevel
+Added Room: Name=USB

@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetU4_3 New Net Name=LO
+Change Net Name : Old Net Name=NetU4_7 New Net Name=HI
+Added Member To Class: ClassName=PowerElectronics Member=Component L2 33uH, 13A

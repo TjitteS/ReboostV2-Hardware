@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VHS Pin=U3-9
+Removed Pin From Net: NetName=VLS Pin=U3-15
+Added Pin To Net: NetName=VLS Pin=U3-9
+Added Pin To Net: NetName=VHS Pin=U3-15

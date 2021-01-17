@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Tsense Pin=C20-2
+Removed Pin From Net: NetName=Tsense Pin=R18-1
+Removed Pin From Net: NetName=Tsense Pin=R20-2
+Removed Pin From Net: NetName=Tsense Pin=U3-31
+Change Net Name : Old Net Name=Tsense New Net Name=Tamb
+Added Pin To Net: NetName=Tsink Pin=C20-2
+Added Pin To Net: NetName=Tsink Pin=R18-1
+Added Pin To Net: NetName=Tsink Pin=R20-2
+Added Pin To Net: NetName=Tsink Pin=U3-31
+Added Net: Name=Tsink

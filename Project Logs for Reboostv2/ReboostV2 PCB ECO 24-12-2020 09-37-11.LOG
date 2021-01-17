@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=GND Pin=C59_VHS-2
+Removed Pin From Net: NetName=GND Pin=C59_VLS-2
+Removed Pin From Net: NetName=GND Pin=R45_VHS-2
+Removed Pin From Net: NetName=VLN Pin=R45_VLS-2
+Removed Pin From Net: NetName=GND Pin=R46_VHS-2
+Removed Pin From Net: NetName=VLN Pin=R46_VLS-2
+Removed Pin From Net: NetName=GND Pin=R47_VHS-2
+Removed Pin From Net: NetName=GND Pin=R47_VLS-2
+Removed Pin From Net: NetName=Vb Pin=R48_VHS-2
+Removed Pin From Net: NetName=VLP Pin=R48_VLS-2
+Removed Pin From Net: NetName=Vb Pin=R50_VHS-2
+Removed Pin From Net: NetName=VLP Pin=R50_VLS-2
+Removed Pin From Net: NetName=GND Pin=U11_VHS-2
+Removed Pin From Net: NetName=Vdda Pin=U11_VHS-5
+Removed Pin From Net: NetName=GND Pin=U11_VLS-2
+Removed Pin From Net: NetName=Vdda Pin=U11_VLS-5
+Removed Member From Class: ClassName=VHS Member=C59_VHS
+Removed Member From Class: ClassName=VLS Member=C59_VLS
+Removed Member From Class: ClassName=VHS Member=C60_VHS
+Removed Member From Class: ClassName=VLS Member=C60_VLS
+Removed Member From Class: ClassName=VHS Member=R45_VHS
+Removed Member From Class: ClassName=VLS Member=R45_VLS
+Removed Member From Class: ClassName=VHS Member=R46_VHS
+Removed Member From Class: ClassName=VLS Member=R46_VLS
+Removed Member From Class: ClassName=VHS Member=R47_VHS
+Removed Member From Class: ClassName=VLS Member=R47_VLS
+Removed Member From Class: ClassName=VHS Member=R48_VHS
+Removed Member From Class: ClassName=VLS Member=R48_VLS
+Removed Member From Class: ClassName=VHS Member=R50_VHS
+Removed Member From Class: ClassName=VLS Member=R50_VLS
+Removed Member From Class: ClassName=VHS Member=U11_VHS
+Removed Member From Class: ClassName=VLS Member=U11_VLS
+Added Component: Designator=R12_VHS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603120KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "120K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R12_VLS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603120KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "120K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R13_VHS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603180KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "180K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R13_VLS(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603180KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "180K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HSG Pin=Q1-G1
+Added Pin To Net: NetName=LSG Pin=Q2-G1
+Added Pin To Net: NetName=Vb Pin=R12_VHS-2
+Added Pin To Net: NetName=VLP Pin=R12_VLS-2
+Added Pin To Net: NetName=GND Pin=R49_VHS-2
+Added Pin To Net: NetName=GND Pin=R49_VLS-2
+Added Pin To Net: NetName=NetR12_VHS_1 Pin=R12_VHS-1
+Added Pin To Net: NetName=NetR12_VHS_1 Pin=R13_VHS-2
+Added Net: Name=NetR12_VHS_1
+Added Pin To Net: NetName=NetR12_VLS_1 Pin=R12_VLS-1
+Added Pin To Net: NetName=NetR12_VLS_1 Pin=R13_VLS-2
+Added Net: Name=NetR12_VLS_1
+Added Pin To Net: NetName=NetR13_VHS_1 Pin=R13_VHS-1
+Added Pin To Net: NetName=NetR13_VHS_1 Pin=R49_VHS-1
+Added Pin To Net: NetName=NetR13_VHS_1 Pin=U3-9
+Added Net: Name=NetR13_VHS_1
+Added Pin To Net: NetName=NetR13_VLS_1 Pin=R13_VLS-1
+Added Pin To Net: NetName=NetR13_VLS_1 Pin=R49_VLS-1
+Added Pin To Net: NetName=NetR13_VLS_1 Pin=U3-15
+Added Net: Name=NetR13_VLS_1
+Added Member To Class: ClassName=VHS Member=Component R12_VHS (R12) 120K
+Added Member To Class: ClassName=VLS Member=Component R12_VLS (R12) 120K
+Added Member To Class: ClassName=VHS Member=Component R13_VHS (R13) 180K
+Added Member To Class: ClassName=VLS Member=Component R13_VLS (R13) 180K

@@ -1,0 +1,416 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 8em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD20\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">8-1-2021</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">14:11:02</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:02</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc" class="file"><acronym title="C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc">C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">2</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">10</td></tr>
+</table>
+</td>
+</table><a name="IDVF31BRYW3QBCHF3AYCN5SXAR1BRI2SOT5TQLOKKL0M1D0CJNCDHO"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDY0A1LQYPNLQ4HT420CN2Y5JEGLPJPLSWEHDMFHJ5ZQ5OVRKKVWJ">Unplated multi-layer pad(s) detected</a></td>
+<td class="column2">2</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">2</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDQVXQUHN3FETOELRRDM5IRNAJZKP1MEX0E2K5AFLNXPU5F5WG0CIB">Clearance Constraint (Gap=0.5mm) (IsPad),(IsPad)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDR3Q1NQW1IPOEHRGR14E1QROLEM1F5G53K2EATUOYII1TO5NOKVOD">Clearance Constraint (Gap=0.15mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDKHQWBB3WXXBUN03OPQUEHONNDNA3J142TC3SQFSWI3B1T4BEHLD">Clearance Constraint (Gap=0.5mm) (InNetClass('HV')),(not InNetClass('HV') and InAnyNet)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDGHM3LQDKGEXNKGQY3BNTFKRVBPBYPGC1XH0DK5KI5HTIB0GWX1H">Clearance Constraint (Gap=0.3mm) (InPolygon),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDD05K5FMY5E4LPWGLFND0WLJNEPZ4UQXL3KDJCGSNW5J4EZYMCE">Clearance Constraint (Gap=0.2mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDBJEIYDFQQ0JCFWKZ1MTDBMWUJMHDLOJZXRUYGWTNKMTTZPF24O">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDOCZMRYFVGE5CFGUBP4V2ONBDJBKDKUU1VTIKFOHOSGCKFRMYMKI">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDCIN0TH0V2MLKGCPMUU0IXYZBVLVNHRC2DYD1INMT45HVTTCFXLCF">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID2T2XVEYQENEFOL4M25GPCAIUOIXPYR0RTCXEY3KGD2PFAUDLOWLM">Width Constraint (Min=0.2mm) (Max=5mm) (Preferred=0.3mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDOQXUOP4B2PVCFK1WBF5GDW40WPBE34GFDENPJQOSAHLGE1DTTC1C">Width Constraint (Min=0.15mm) (Max=1.5mm) (Preferred=0.2mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDCKMV0PGRIHNNELJTCTRV4O5PYCNERXI5NFPALMK5IRDYESE3OZQK">Power Plane Connect Rule(Direct Connect )(Expansion=0.3mm) (Conductor Width=0.6mm) (Air Gap=0.2mm) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID35EELYDJ22O4AS3HIXFYZKZZIDCZIQJYD3KB3H2AF4L1P0CDDAI">Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter &gt; AsMM(0.45)))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID50NWO0XN1RNVOJAYLTIPB1KEMLBEN1MSYH04RY3W231MCIVXGFJ">Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter &lt;= AsMM(0.45)))</a></td>
+<td class="column2">10</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDGRB0M3E343NTFHN1ZPUOTE0BMPM0Q1R4YH1VLWPDVXNUQ1YBF00P">Minimum Annular Ring (Minimum=0.175mm) (IsConnection)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDK5CAZECRQ40TBUQZMEZMHPB1JDLIFPYYJ0LZ5IHKHMOE2MHGOEIH">Hole Size Constraint (Min=0.25mm) (Max=3.2mm) (IsPad and PadIsPlated and HoleSize &gt; 0)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDR2UJV0IYSSHYJLSKFPG5QJAPFNDJ3R5PLDPJKDNNZSHFUV0WXIQE">Hole Size Constraint (Min=0.25mm) (Max=10mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDJXMJZX2V4Z42B20L34T5YRA2AMKR2DJVWHA3XMPKWJFSUNEHU5ZD">Hole To Hole Clearance (Gap=0.35mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDAZT4SM3MNWS3EKAESN3RBCK2MH55TFHK3HUNGOPVD4WK1ROBEDEG">Minimum Solder Mask Sliver (Gap=0.08mm) (Disabled)(All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDQFIQ1TTPF23OH5XC4YQ1XAOAVHSZGOK43MI0QZOWUSXG5TZWSRT">Silk To Solder Mask (Clearance=0.2mm) (Disabled)(IsPad),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDWD0OK3UWL3SWNI3VMB0LRIH1GL2TDYSEZORVKYJFHR1E5HWCXTLN">Silk to Silk (Clearance=0.2mm) (Disabled)(All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDT5COFQWBPCR4LSPPVGTICKHKRPJDFC2UGYKZOOCJQMYYO0FM1AOH">Net Antennae (Tolerance=0mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDJT2XI5N5UCHJE02CRTCLOLFOTPFU2MQHMYS0XRHRHJHQFQBOVMGC">Board Clearance Constraint (Gap=0mm) (not OnSilkscreen)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDC2RAOEADWRZOPAZZSOITQOJJCEC5WCI2V2XSK0JI2W14E5HOQWTH">Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('All Differential Pairs'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDHWVNENRX2IN4MPKCTX4TU4KC0J14YOSXCBLAM1PHULDUCBKUC3Q">Height Constraint (Min=0mm) (Max=150mm) (Prefered=12.7mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">10</td>
+</tr>
+</table><br><a name="IDDR1ZWSLYYUCAEZTBWAFWQVE4BNQNAZQO0U1YBJEP0NK5RQIWBWCM"><h2>Warnings</h2></a><a name="IDY0A1LQYPNLQ4HT420CN2Y5JEGLPJPLSWEHDMFHJ5ZQ5OVRKKVWJ"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="warning">Unplated multi-layer pad(s) detected</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3381.827mil|Location2.X=3626.047mil|Location1.Y=2397.575mil|Location2.Y=2641.795mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3381.827mil|Location2.X=3626.047mil|Location1.Y=2397.575mil|Location2.Y=2641.795mil|Absolute=True">Pad MP1-1(53mm,14mm) on Multi-Layer</acronym></a> on <a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=0mil|Location2.X=0mil|Location1.Y=0mil|Location2.Y=0mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=0mil|Location2.X=0mil|Location1.Y=0mil|Location2.Y=0mil|Absolute=True">Net NetC27_1</acronym></a></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3381.827mil|Location2.X=3626.047mil|Location1.Y=4051.118mil|Location2.Y=4295.339mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3381.827mil|Location2.X=3626.047mil|Location1.Y=4051.118mil|Location2.Y=4295.339mil|Absolute=True">Pad MP2-1(53mm,56mm) on Multi-Layer</acronym></a> on <a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=0mil|Location2.X=0mil|Location1.Y=0mil|Location2.Y=0mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=0mil|Location2.X=0mil|Location1.Y=0mil|Location2.Y=0mil|Absolute=True">Net NetC29_1</acronym></a></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="ID50NWO0XN1RNVOJAYLTIPB1KEMLBEN1MSYH04RY3W231MCIVXGFJ"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter &lt;= AsMM(0.45)))</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2525.458mil|Location2.X=2533.597mil|Location1.Y=4344.355mil|Location2.Y=4352.495mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2525.458mil|Location2.X=2533.597mil|Location1.Y=4344.355mil|Location2.Y=4352.495mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U7-CP(28.25mm,60.25mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2525.458mil|Location2.X=2533.597mil|Location1.Y=4403.41mil|Location2.Y=4411.55mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2525.458mil|Location2.X=2533.597mil|Location1.Y=4403.41mil|Location2.Y=4411.55mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U7-CP(28.25mm,61.75mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2545.143mil|Location2.X=2553.282mil|Location1.Y=4373.883mil|Location2.Y=4382.023mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2545.143mil|Location2.X=2553.282mil|Location1.Y=4373.883mil|Location2.Y=4382.023mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U7-CP(28.75mm,61mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2564.828mil|Location2.X=2572.967mil|Location1.Y=4344.355mil|Location2.Y=4352.495mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2564.828mil|Location2.X=2572.967mil|Location1.Y=4344.355mil|Location2.Y=4352.495mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U7-CP(29.25mm,60.25mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2564.828mil|Location2.X=2572.967mil|Location1.Y=4403.41mil|Location2.Y=4411.55mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2564.828mil|Location2.X=2572.967mil|Location1.Y=4403.41mil|Location2.Y=4411.55mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U7-CP(29.25mm,61.75mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2373.883mil|Location2.X=2382.023mil|Location1.Y=3785.3mil|Location2.Y=3793.44mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2373.883mil|Location2.X=2382.023mil|Location1.Y=3785.3mil|Location2.Y=3793.44mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U9-CP(24.4mm,46.05mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2373.883mil|Location2.X=2382.023mil|Location1.Y=3844.355mil|Location2.Y=3852.495mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2373.883mil|Location2.X=2382.023mil|Location1.Y=3844.355mil|Location2.Y=3852.495mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U9-CP(24.4mm,47.55mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2393.568mil|Location2.X=2401.708mil|Location1.Y=3814.828mil|Location2.Y=3822.968mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2393.568mil|Location2.X=2401.708mil|Location1.Y=3814.828mil|Location2.Y=3822.968mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U9-CP(24.9mm,46.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2413.253mil|Location2.X=2421.393mil|Location1.Y=3785.3mil|Location2.Y=3793.44mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2413.253mil|Location2.X=2421.393mil|Location1.Y=3785.3mil|Location2.Y=3793.44mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U9-CP(25.4mm,46.05mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2413.253mil|Location2.X=2421.393mil|Location1.Y=3844.355mil|Location2.Y=3852.495mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2413.253mil|Location2.X=2421.393mil|Location1.Y=3844.355mil|Location2.Y=3852.495mil|Absolute=True">Minimum Annular Ring: (0.1mm &lt; 0.175mm) Pad U9-CP(25.4mm,47.55mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

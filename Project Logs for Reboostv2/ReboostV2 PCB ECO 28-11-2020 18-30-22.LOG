@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetC27_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC27_1 Pin=J1-1
+Removed Pin From Net: NetName=Vin Pin=J1-2
+Removed Pin From Net: NetName=Vin Pin=J1-2
+Removed Pin From Net: NetName=Vout Pin=J1-3
+Removed Pin From Net: NetName=Vout Pin=J1-3
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Added Component: Designator=J4(MCEMR-02)
+Add component (AddParameter): Name = "Brand"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "418121160802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "418121160802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW0603100KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=R1_IHS-2
+Added Pin To Net: NetName=GND Pin=R1_ILS-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=Tsense Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R36_VHS-2
+Added Pin To Net: NetName=GND Pin=R37_VHS-2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_3 Pin=R30-2
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetR1_IHS_1 Pin=R1_IHS-1
+Added Net: Name=NetR1_IHS_1
+Added Pin To Net: NetName=VHN Pin=J1-4
+Added Pin To Net: NetName=VHN Pin=J1-4
+Added Net: Name=VHN
+Added Pin To Net: NetName=VHP Pin=J1-3
+Added Pin To Net: NetName=VHP Pin=J1-3
+Added Net: Name=VHP
+Added Pin To Net: NetName=VLN Pin=J1-1
+Added Pin To Net: NetName=VLN Pin=J1-1
+Added Net: Name=VLN
+Added Pin To Net: NetName=VLP Pin=J1-2
+Added Pin To Net: NetName=VLP Pin=J1-2
+Added Net: Name=VLP
+Added Member To Class: ClassName=ReboostV2_toplevel Member=Component J4 Switch 2p
+Added Member To Class: ClassName=PowerElectronics Member=Component R14 NTC-100K
+Added Member To Class: ClassName=PowerElectronics Member=Component R15 NTC-100K
+Added Member To Class: ClassName=PowerElectronics Member=Component R16 100K
