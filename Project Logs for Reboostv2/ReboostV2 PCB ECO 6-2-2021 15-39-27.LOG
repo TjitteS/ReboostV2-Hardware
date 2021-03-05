@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C41 Old Footprint=C0603 New Footprint=C-0805
+Change Component Comment : Designator=C41 Old Comment=100nF New Comment=10uF
+Change component parameters: Designator = "C41" ("C41"); Footprint = "C0603"; UniqueID = "\ALVCSZRU\IETLBWZN" ("\ALVCSZRU\IETLBWZN")
+Change component parameters (AddParameter): Name = "Brand"; Value = "MURATA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand Number"; Value = "GRM21BR71A106KE51L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitor Case Style"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code Supplier"; Value = "1828828"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0,36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PSU Member=Component R34 1M

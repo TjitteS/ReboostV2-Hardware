@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VHP Pin=F1-2
+Removed Pin From Net: NetName=Vb Pin=L1-2
+Removed Member From Class: ClassName=PowerElectronics Member=L1
+Removed Member From Class: ClassName=HV Member=VHPF
+Added Pin To Net: NetName=Vb Pin=C64-2
+Added Pin To Net: NetName=Vb Pin=F1-1
+Added Pin To Net: NetName=VHP Pin=L1-2
+Added Pin To Net: NetName=Vb Pin=R25-2
+Added Pin To Net: NetName=Vb Pin=R26-2
+Added Pin To Net: NetName=Vb Pin=U8-3
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=L1-1
+Added Net: Name=NetF1_2
+Added Member To Class: ClassName=ReboostV2_toplevel Member=Component L1 2uH, 10A

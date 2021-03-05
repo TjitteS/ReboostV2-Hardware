@@ -1,0 +1,90 @@
+Removed Member From Class: ClassName=CANISO Member=SHLD2
+Added Component: Designator=MP3(9774020151)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/9774020151.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "9774020151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Added Component: Designator=MP4(9774020151)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/9774020151.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "9774020151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Added Component: Designator=MP5(9774020151)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/9774020151.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "9774020151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Added Component: Designator=MP6(9774020151)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/9774020151.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "9774020151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SHLD Pin=J8-5
+Added Pin To Net: NetName=SHLD Pin=J9-5
+Added Pin To Net: NetName=SHLD Pin=MP3-1
+Added Pin To Net: NetName=SHLD Pin=MP4-1
+Added Pin To Net: NetName=SHLD Pin=MP5-1
+Added Pin To Net: NetName=SHLD Pin=MP6-1
+Added Net: Name=SHLD
+Change Differential Pair Positive Net Name : Old Net Name=_IHS_P New Net Name=_IHS_P
+Change Differential Pair Positive Net Name : Old Net Name=_ILS_P New Net Name=_ILS_P
+Change Differential Pair Negative Net Name : Old Net Name=_IHS_N New Net Name=_IHS_N
+Change Differential Pair Negative Net Name : Old Net Name=_ILS_N New Net Name=_ILS_N
+Added Member To Class: ClassName=CAN Member=Component MP3 M2.5x2mm
+Added Member To Class: ClassName=CAN Member=Component MP4 M2.5x2mm
+Added Member To Class: ClassName=CAN Member=Component MP5 M2.5x2mm
+Added Member To Class: ClassName=CAN Member=Component MP6 M2.5x2mm
+Added Member To Class: ClassName=CANISO Member=Wire SHLD
+Added Room: Name=Designator

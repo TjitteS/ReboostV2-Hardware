@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=Vb Pin=C63-1
+Removed Pin From Net: NetName=GND Pin=C63-2
+Removed Pin From Net: NetName=Vb Pin=C68-1
+Removed Pin From Net: NetName=GND Pin=C68-2
+Removed Pin From Net: NetName=Vb Pin=C69-1
+Removed Pin From Net: NetName=GND Pin=C69-2
+Removed Pin From Net: NetName=Vb Pin=C70-1
+Removed Pin From Net: NetName=GND Pin=C70-2
+Removed Member From Class: ClassName=PowerElectronics Member=C63
+Removed Member From Class: ClassName=PowerElectronics Member=C68
+Removed Member From Class: ClassName=PowerElectronics Member=C69
+Removed Member From Class: ClassName=PowerElectronics Member=C70
+Added Component: Designator=R39(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 200PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R41(0603)
+Add component (AddParameter): Name = "Brand"; Value = "VISHAY DRALORIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand Number"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Style"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code Supplier"; Value = "2122112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 200PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=NetR38_2 Pin=R39-2
+Added Pin To Net: NetName=NetD4_4 Pin=R41-1
+Added Pin To Net: NetName=NetR38_2 Pin=R41-2
+Added Member To Class: ClassName=ReboostV2_toplevel Member=Component R39 0R
+Added Member To Class: ClassName=ReboostV2_toplevel Member=Component R41 0R

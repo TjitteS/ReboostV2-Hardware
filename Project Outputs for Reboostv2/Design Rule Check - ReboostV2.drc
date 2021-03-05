@@ -1,11 +1,14 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\Reboost V2\ReboostV2.PcbDoc
-Date     : 8-1-2021
-Time     : 14:11:02
+PCB File : C:\Users\Tjitte\Documents\TPEE\Projects\TDSR2021 MPPT\Hardware\ReboostV2-Hardware\ReboostV2.PcbDoc
+Date     : 9-2-2021
+Time     : 12:43:42
 
 WARNING: Unplated multi-layer pad(s) detected
-   Pad MP1-1(53mm,14mm) on Multi-Layer on Net NetC27_1
    Pad MP2-1(53mm,56mm) on Multi-Layer on Net NetC29_1
+   Pad MP1-1(53mm,14mm) on Multi-Layer on Net NetC27_1
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.5mm) (IsPad),(IsPad)
 Rule Violations :0
@@ -13,13 +16,13 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
 
+Processing Rule : Clearance Constraint (Gap=0.05mm) (IsVia),(IsPad AND NOT ( InComponent('U3') OR  InComponent('U2') OR  InComponent('U8') ))
+Rule Violations :0
+
 Processing Rule : Clearance Constraint (Gap=0.5mm) (InNetClass('HV')),(not InNetClass('HV') and InAnyNet)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (InPolygon),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -43,20 +46,10 @@ Rule Violations :0
 Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter > AsMM(0.45)))
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter <= AsMM(0.45)))
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U7-CP(28.25mm,60.25mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U7-CP(28.25mm,61.75mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U7-CP(28.75mm,61mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U7-CP(29.25mm,60.25mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U7-CP(29.25mm,61.75mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U9-CP(24.4mm,46.05mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U9-CP(24.4mm,47.55mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U9-CP(24.9mm,46.8mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U9-CP(25.4mm,46.05mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-   Violation between Minimum Annular Ring: (0.1mm < 0.175mm) Pad U9-CP(25.4mm,47.55mm) on Multi-Layer (Annular Ring=0.1mm) On (Top Layer)
-Rule Violations :10
-
 Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (IsConnection)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter <= AsMM(0.45)))
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=3.2mm) (IsPad and PadIsPlated and HoleSize > 0)
@@ -90,6 +83,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=150mm) (Prefered=12.7mm) (All
 Rule Violations :0
 
 
-Violations Detected : 10
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
