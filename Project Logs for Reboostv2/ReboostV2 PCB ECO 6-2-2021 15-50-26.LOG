@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C19-1
-Removed Pin From Net: NetName=Vdd Pin=C19-2
-Removed Member From Class: ClassName=Controller Member=C19

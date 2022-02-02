@@ -1,8 +1,0 @@
-Added Component: Designator=J1(DTF13-4P)
-Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "571-DTF13-4P"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=VLN Pin=J1-1
-Added Pin To Net: NetName=VLP Pin=J1-2
-Added Pin To Net: NetName=VHP Pin=J1-3
-Added Pin To Net: NetName=VHN Pin=J1-4
-Added Member To Class: ClassName=ReboostV2_toplevel Member=Component J1 DTF13-4P

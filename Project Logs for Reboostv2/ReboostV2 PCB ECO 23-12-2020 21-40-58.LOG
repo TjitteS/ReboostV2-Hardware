@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=RX Pin=R12-2
-Removed Pin From Net: NetName=TX Pin=R13-2
-Removed Member From Class: ClassName=USB Member=R12
-Removed Member From Class: ClassName=USB Member=R13
-Added Pin To Net: NetName=TX Pin=U2-20
-Added Pin To Net: NetName=RX Pin=U2-21

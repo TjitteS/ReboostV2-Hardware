@@ -1,7 +1,0 @@
-Added Component: Designator=J?(TC2030-IDC-NL)
-Added Pin To Net: NetName=Vdd Pin=J?-1
-Added Pin To Net: NetName=SWDIO Pin=J?-2
-Added Pin To Net: NetName=R\S\T\ Pin=J?-3
-Added Pin To Net: NetName=SWCLK Pin=J?-4
-Added Pin To Net: NetName=GND Pin=J?-5
-Added Member To Class: ClassName=Controller Member=Component J? TagConnect 6p NL

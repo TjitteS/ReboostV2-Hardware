@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=HS Pin=U3-33
-Removed Pin From Net: NetName=HS Pin=U4-1
-Change Net Name : Old Net Name=HS New Net Name=LSEN
-Added Pin To Net: NetName=HS Pin=U3-33
-Added Pin To Net: NetName=HS Pin=U4-1
-Added Net: Name=HS

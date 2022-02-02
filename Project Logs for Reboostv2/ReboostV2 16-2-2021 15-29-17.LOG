@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=J1-0
-Removed Pin From Net: NetName=GND Pin=J1-0
-Change Component Comment : Designator=J1 Old Comment=Header 1x4 New Comment=DTF13-4P
-Change component parameters: Designator = "J1" ("J1"); Footprint = "PC 4/ 4-G-7,62"; UniqueID = "\BUIKNCRO" ("\BUIKNCRO")
-Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "571-DTF13-4P"; VariantName = "[No Variations]"

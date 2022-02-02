@@ -1,8 +1,0 @@
-Change Net Name : Old Net Name=LSS New Net Name=GND
-Added Member To Class: ClassName=HV Member=Wire HSG
-Added Member To Class: ClassName=HV Member=Wire HSS
-Added Member To Class: ClassName=HV Member=Wire NetC40_2
-Added Member To Class: ClassName=HV Member=Wire NetD3_2
-Added Member To Class: ClassName=HV Member=Wire NetJ3_1
-Added Member To Class: ClassName=HV Member=Wire NetQ1_G1
-Added Member To Class: ClassName=HV Member=Wire NetQ1_G2

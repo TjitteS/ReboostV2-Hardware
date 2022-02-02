@@ -1,9 +1,0 @@
-Change Component Comment : Designator=J2 Old Comment=USB3075 New Comment=USB-B-MINI-VERT
-Change component parameters: Designator = "J2" ("J2"); Footprint = "USB3075 - NOSLOT"; UniqueID = "\AEFUBCWB\OAMMXLET" ("\AEFUBCWB\OAMMXLET")
-Change component parameters (AddParameter): Name = "Brand"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Brand Number"; Value = "651005136421"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Case Style"; Value = "WR-COM"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Order Code Supplier"; Value = "1841175"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Pitch"; Value = ""; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Price"; Value = "3,37"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"

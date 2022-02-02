@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=GND Pin=L7_VHS-4
-Added Pin To Net: NetName=GND Pin=L7_VLS-4
-Added Pin To Net: NetName=GND Pin=R49_VHS-2
-Added Pin To Net: NetName=GND Pin=R49_VLS-2
-Change Net Name : Old Net Name=_VHS_P New Net Name=V_VHS_P
-Change Net Name : Old Net Name=_VLS_P New Net Name=V_VLS_P
-Added Member To Class: ClassName=PowerElectronics Member=Component L2 33uH, 13A
