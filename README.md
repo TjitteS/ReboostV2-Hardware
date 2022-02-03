@@ -5,4 +5,4 @@ Hardware files for [OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSma
 
 ### Verison ###
 
-The output folder contains two verison. the only major diference between the two versions is the CAN-bus connector that is used.
+The output folder contains two verison. the only major diference between the two versions is the CAN-bus connector that is used. V0.2.0 contains easy to source microfit connectors and is the recomended design.
