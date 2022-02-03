@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [ReboostV2.1.PcbDoc]
+   Generated File[Bill of Materials-ReboostV2.1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:21:15 On 03/02/2022

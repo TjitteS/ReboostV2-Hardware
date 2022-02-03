@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\Users\Tjitt\Documents\TPEE\Projects\TP2101 TDSR2021 MPPT\Hardware\ReboostV2-Hardware\ReboostV2.1.PcbDoc
+RuleKind=Clearance|RuleName=Via-PAd|Scope=Board|Minimum=1.97
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=6.89
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=6.89
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.89
+RuleKind=Clearance|RuleName=SMD Pad|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=Via|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircui|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_5|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Min Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=HV clearance|Scope=Board|Minimum=19.69
